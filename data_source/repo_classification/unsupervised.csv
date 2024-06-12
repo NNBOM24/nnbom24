@@ -1,0 +1,305 @@
+full_name,default_branch,forks,watchers,topics,created_at
+HyperGAN__HyperGAN,master,171,1188,"['artificial-intelligence', 'computer-vision', 'gan', 'generative-adversarial-network', 'hypergan', 'machine-learning', 'machine-learning-api', 'online-learning', 'python', 'pytorch', 'sponsors', 'unsupervised-learning']",2016-06-24T22:49:56Z
+jaanli__variational-autoencoder,master,255,1106,"['autoregressive-neural-networks', 'deep', 'deep-learning', 'deep-neural-networks', 'learning', 'machine-learning', 'probabilistic-graphical-models', 'pytorch', 'tensorflow', 'unsupervised-learning', 'vae', 'variational-autoencoder', 'variational-inference']",2016-08-15T15:48:05Z
+drckf__paysage,master,27,120,"['boltzmann-machines', 'generative-model', 'machine-learning', 'rbm', 'unsupervised-learning']",2017-01-22T15:56:10Z
+sagiebenaim__DistanceGAN,master,42,194,"['computer-vision', 'computer-vision-ai', 'deep-learning', 'gan', 'image-generation', 'image-manipulation', 'pytorch', 'unsupervised-learning']",2017-06-02T07:34:51Z
+jwyang__lr-gan.pytorch,master,32,151,"['gan', 'unsupervised-learning']",2017-05-24T16:19:36Z
+inejc__paragraph-vectors,master,75,398,"['deep-learning', 'doc2vec', 'machine-learning', 'neural-networks', 'nlp', 'pytorch', 'unsupervised-learning']",2017-09-02T14:50:43Z
+ClementPinard__SfmLearner-Pytorch,master,226,975,"['depth', 'disparity', 'kitti', 'pytorch', 'unsupervised']",2017-10-19T15:45:23Z
+vaibhavnaagar__pixelDA_GAN,master,18,66,"['classification', 'cnn', 'computer-vision', 'convolutional-neural-networks', 'domain-adaptation', 'gan', 'generative-adversarial-network', 'machine-learning', 'pytorch', 'unsupervised-learning']",2017-10-23T10:34:40Z
+cryptedp__unsupervised_videos_pytorch,master,5,9,[],2017-10-17T14:06:10Z
+eelxpeng__UnsupervisedDeepLearning-Pytorch,master,26,86,"['autoencoder', 'deep-learning', 'denoising-autoencoders', 'generative-adversarial-network', 'pytorch', 'unsupervised', 'variational-autoencoders']",2017-11-02T06:58:46Z
+xinario__catgan_pytorch,master,18,57,"['catgan', 'dcgan', 'gan', 'generative-adversarial-network', 'pytorch', 'semi-supervised-learning', 'unsupervised-learning']",2017-11-03T18:36:17Z
+mikelei8291__S2F-GAN,master,0,1,"['gan', 'pytorch', 'unsupervised-learning']",2017-11-15T14:34:31Z
+hollobit__All-About-the-GAN,master,156,654,"['adversarial-nets', 'adversarial-networks', 'arxiv', 'cgan', 'classification', 'ct-denoising', 'deep-learning', 'detection', 'gan', 'generative-adversarial-network', 'image-synthesis', 'medical-image-synthesis', 'medical-imaging', 'neural-network', 'paper', 'pytorch', 'reconstruction', 'segmentation', 'tensorflow', 'unsupervised-learning']",2017-12-28T05:54:01Z
+MightyChaos__LKVOLearner,master,38,229,"['ddvo', 'depth-estimation', 'posenet-ddvo', 'pytorch', 'unsupervised-learning', 'visual-odometry']",2018-01-03T01:59:18Z
+atiyo__wasserstein_gan,master,0,0,"['deep-learning', 'generative-adversarial-network', 'machine-learning', 'pytorch', 'unsupervised-learning']",2017-12-29T21:55:45Z
+Mrpatekful__translate,master,0,4,"['deep-learning', 'machine-translation', 'pytorch', 'unsupervised-machine-learning']",2018-02-10T13:24:20Z
+zcrwind__PredNet_pytorch,master,10,27,"['prednet', 'pytorch', 'unsupervised-learning', 'video-prediction']",2018-03-06T00:29:15Z
+nileshkulkarni__volumetricPrimitivesPytorch,reinforce,15,50,"['3d-representation', 'abstraction', 'deep-learning', 'unsupervised-learning']",2018-03-30T00:31:38Z
+1Konny__Beta-VAE,master,125,489,"['beta-vae', 'celeba', 'chairs-dataset', 'disentangled-representations', 'dsprites', 'unsupervised-learning', 'vae']",2018-04-16T09:47:25Z
+kanezaki__pytorch-unsupervised-segmentation,master,99,388,[],2018-04-06T09:44:58Z
+1Konny__FactorVAE,master,47,252,"['beta-vae', 'celeba', 'chairs-dataset', 'disentangled-representations', 'dsprites', 'factor-vae', 'factorvae', 'unsupervised-learning', 'vae']",2018-04-15T06:45:47Z
+sobamchan__unsupervised-machine-translation-using-monolingual-corpora-only-pytorch,master,1,5,[],2018-04-16T09:37:30Z
+zhirongw__lemniscate.pytorch,master,131,731,"['computer-vision', 'cvpr2018', 'deep-learning', 'imagenet', 'nce', 'pytorch', 'representation-learning', 'self-supervised-learning', 'unsupervised-learning']",2018-05-04T08:59:24Z
+KaiyangZhou__pytorch-vsumm-reinforce,master,146,450,"['computer-vision', 'deep-learning', 'machine-learning', 'policy-network', 'reinforcement-learning', 'unsupervised-learning', 'video-summarization']",2018-04-19T16:36:11Z
+ap229997__DRNET,master,11,47,"['adversarial-loss', 'disentangled-representations', 'drnet', 'pytorch', 'unsupervised-learning', 'video-representation']",2018-05-17T20:29:53Z
+AnesBenmerzoug__Machine-Learning-Projects,master,0,2,"['cartpole-v0', 'cifar-10', 'classification', 'deep-reinforcement-learning', 'machine-learning', 'mnist-classification', 'neural-networks', 'python3', 'pytorch', 'space-invaders', 'stl10', 'supervised-learning', 'unsupervised-learning']",2018-05-10T01:09:47Z
+atiyo__unbounded_gan,master,2,30,"['deep-learning', 'generative-adversarial-network', 'machine-learning', 'pytorch', 'unsupervised-learning']",2018-05-21T20:57:28Z
+sagiebenaim__OneShotTranslation,master,18,139,"['computer-vision', 'gan', 'image-generation', 'image-manipulation', 'oneshot', 'pytorch', 'unsupervised-learning']",2018-06-15T15:20:06Z
+DenisDsh__PyTorch-Deep-CORAL,master,15,46,"['coral', 'domain-adaptation', 'pytorch-implementation', 'unsupervised-domain-adaptation']",2018-10-06T18:02:21Z
+santi-pdp__pase,master,87,432,"['deep-learning', 'multi-task-learning', 'pytorch', 'self-supervised-learning', 'speech-processing', 'unsupervised-learning', 'waveform-analysis']",2018-11-14T16:20:46Z
+anuragranj__back2future.pytorch,master,7,111,"['deep-learning', 'optical-flow', 'unsupervised-learning']",2018-11-28T17:03:34Z
+dr-costas__undaw,master,6,13,"['acoustic-scene-classification', 'adversarial-training', 'audio-signal-processing', 'deep-learning', 'domain-adaptation', 'machine-learning', 'machine-listening', 'optimal-transport', 'pytorch', 'unsupervised-domain-adaptation', 'unsupervised-learning', 'unsupervised-machine-learning', 'wasserstein-distance', 'wasserstein-gan']",2018-12-10T14:58:44Z
+PetarV-__DGI,master,136,598,"['deep-graph-infomax', 'graph-convolutional-networks', 'neural-networks', 'python', 'pytorch', 'unsupervised-learning', 'unsupervised-node-embedding']",2018-12-21T15:06:57Z
+parajain__uctf,master,5,20,"['aaai19', 'dataset', 'natural-language-generation', 'natural-language-processing', 'nlg', 'python', 'pytorch', 'unsupervised-learning']",2018-12-15T11:47:00Z
+benedekrozemberczki__SINE,master,18,71,"['aane', 'asne', 'deep-learning', 'deepwalk', 'dimensionality-reduction', 'gensim', 'graph-embedding', 'grarep', 'machine-learning', 'network-embedding', 'networkx', 'node-embedding', 'node2vec', 'pytorch', 'sklearn', 'tadw', 'tensorflow', 'torch', 'unsupervised-learning', 'walklets']",2019-01-07T13:59:56Z
+YannDubs__disentangling-vae,master,140,755,"['beta-tcvae', 'beta-vae', 'celeba', 'chairs-dataset', 'deep-learning', 'disentangled-representations', 'disentanglement', 'dsprites', 'factor-vae', 'fashion-mnist', 'mnist', 'pytorch', 'representation-learning', 'reproducible-research', 'unsupervised-learning', 'vae', 'variational-autoencoder']",2019-01-30T22:21:55Z
+MortalHappiness__ML2019SPRING,master,2,3,"['clustering', 'cnn', 'deep-learning', 'dnn', 'keras', 'linear-regression', 'machine-learning', 'model-attack', 'network-compression', 'neural-network', 'pca', 'pytorch', 'rnn', 'unsupervised-learning']",2019-02-23T08:49:57Z
+daiquocnguyen__Walk-Transformer,master,7,38,"['graph-embeddings', 'graph-neural-networks', 'inductive-node-embeddings', 'node-classification', 'node-embeddings', 'pytorch-implementation', 'random-walk', 'self-attention', 'transformer', 'unsupervised-node-embedding']",2019-03-06T06:22:36Z
+jefflai108__Contrastive-Predictive-Coding-PyTorch,master,93,457,"['automatic-speaker-verification', 'contrastive-loss', 'predictive-modeling', 'representation-learning', 'unsupervised-learning']",2019-04-02T21:42:20Z
+josephdanielchang__unsupervised_learning_of_depth_pytorch,master,0,0,[],2019-03-30T23:55:36Z
+iamyuanchung__Autoregressive-Predictive-Coding,master,31,183,"['pre-training', 'pytorch', 'representation-learning', 'self-supervised-learning', 'unsupervised-learning']",2019-04-09T16:12:27Z
+jaehyunnn__AutoEncoder_pytorch,master,1,6,"['autoencoder', 'clustering', 'deep-learning', 'unsupervised-learning']",2019-04-11T05:13:54Z
+Raymond-sci__AND,master,21,150,"['deep-learning', 'machine-learning', 'unsupervised-learning']",2019-04-24T19:35:33Z
+Deepayan137__DeepClustering,master,22,108,"['deep-clustering', 'deep-learning', 'python3', 'pytorch', 'pytorch-implmention', 'unsupervised-learning']",2019-04-26T05:38:44Z
+k-r-jain__unsupervised_landmarks,master,0,2,[],2019-04-26T17:09:55Z
+07Agarg__Unsupervised-Learning,master,0,1,"['autoencoder-mnist', 'generative-adversarial-network', 'pytorch', 'tensorflow', 'unsupervised-machine-learning', 'variational-autoencoders']",2019-05-06T00:05:11Z
+necroen__simplified_struct2depth,master,10,52,"['depth-estimation', 'disparity', 'unsupervised']",2019-05-17T11:44:50Z
+kgl-prml__Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation,master,58,303,['unsupervised-domain-adaptation'],2019-06-03T21:04:39Z
+ildoonet__unsupervised-data-augmentation,master,10,147,"['data-augmentation', 'deep-learning', 'google', 'unsupervised-learning']",2019-05-27T18:31:27Z
+olivesgatech__TA3N,master,2,45,"['action-recognition', 'computer-vision', 'cvpr2019', 'deep-learning', 'deep-neural-networks', 'domain-adaptation', 'iccv2019', 'pytorch', 'transfer-learning', 'unsupervised-learning', 'video-classification']",2019-05-31T04:16:46Z
+Jongchan__unsupervised_data_augmentation_pytorch,master,6,23,[],2019-05-30T08:06:20Z
+VITA-Group__EnlightenGAN,master,199,850,"['gan', 'generative-adversarial-networks', 'low-light', 'low-light-enhance', 'pytorch', 'unsupervised-learning']",2019-06-16T13:14:30Z
+alexeyev__abae-pytorch,master,13,66,"['aspect-extraction', 'autoencoder', 'nlp', 'pytorch', 'pytorch-implementation', 'topic-modeling', 'unsupervised-machine-learning']",2019-06-21T00:40:22Z
+VITA-Group__USAID,master,10,35,"['deep-neural-networks', 'denoising', 'pytorch', 'segmentation-aware', 'unsupervised-learning']",2019-06-09T18:22:17Z
+mhjuan__generate-to-adapt,master,0,5,"['deep-learning', 'domain-adaptation', 'generative-adversarial-network', 'machine-learning', 'unsupervised-domain-adaptation']",2019-07-09T15:00:29Z
+Obarads__Unsupervised_Segmentation_chainer,master,0,1,"['chainer', 'deep-learning', 'image', 'segmentation', 'unsupervised-learning']",2019-07-08T19:56:17Z
+ArnaudFickinger__LotteryTicket-PyTorch,master,0,0,"['genomics-data', 'lottery-ticket-phenomena', 'pruning', 'reinforcement-learning', 'unsupervised-learning']",2019-07-05T17:32:42Z
+peterparity__PDE-VAE-pytorch,master,7,26,"['dynamical-systems', 'nonlinear-dynamics', 'partial-differential-equations', 'pde', 'physics', 'pytorch-implementation', 'spatio-temporal-data', 'spatiotemporal', 'unsupervised-learning', 'vae', 'variational-autoencoder']",2019-07-19T19:07:37Z
+subhadeep-123__Restricted-Boltzmann-Machines,master,1,2,"['boltzmann-machines', 'deel-learning', 'python3', 'pytorch', 'restricted-boltzmann-machines', 'unsupervised-learning']",2019-07-12T19:36:20Z
+EchartsT__pytorch-unsupervised-segmentation,master,0,0,[],2019-07-19T09:24:32Z
+nwheise__adversarial-mapping,master,0,0,"['adversarial-learning', 'pytorch', 'translation', 'unsupervised-learning']",2019-08-11T09:26:08Z
+nmningmei__BOLD5000_autoencoder,master,6,13,"['autoencoder', 'fmri', 'pytorch', 'unsupervised-machine-learning']",2019-08-20T11:38:40Z
+TreezzZ__SSDH_PyTorch,master,7,26,"['deep-hashing', 'pytorch', 'unsupervised-hashing']",2019-08-30T05:57:05Z
+ByronHsu__FEGAN,master,4,36,"['computer-vision', 'deep-learning', 'fisheye', 'gan', 'image-rectification', 'self-supervised-learning', 'unsupervised-learning']",2019-09-17T09:06:56Z
+ESanchezLozano__SAIC-Unsupervised-landmark-detection-NeurIPS2019,master,5,31,"['incremental-learning', 'landmark', 'landmark-discovery', 'neurips', 'neurips-2019', 'pytorch', 'unsupervised-adaptation', 'unsupervised-domain-adaptation']",2019-09-25T12:37:07Z
+Gavince__Animation-Head-Image-Generation-by-GAN,master,9,11,"['deep-learning', 'gan', 'unsupervised-learning']",2019-10-05T08:56:31Z
+ChinYing-Li__unsupervised-video-pred,master,0,1,[],2019-10-24T13:12:53Z
+vandit15__Self-Supervised-Gans-Pytorch,master,18,64,"['computer-vision', 'cvpr', 'cvpr2019', 'deep-learning', 'gan', 'image-generation', 'machine-learning', 'pytorch', 'unsupervised-learning']",2019-11-10T04:42:58Z
+DuaneNielsen__keypoints,master,7,45,"['deep-learning', 'landmarks', 'pytorch', 'unsupervised-learning']",2019-11-01T16:24:30Z
+sidgairo18__unsupervised-style-learning,master,1,11,"['computer-vision', 'imagestyle', 'machine-learning', 'python3', 'pytorch', 'wacv', 'wacv2020']",2019-11-03T20:03:20Z
+moabitcoin__Adversarial-video-summarization-pytorch,master,8,28,"['autoencoder', 'lstm', 'lstm-autoencoder', 'python', 'pytorch', 'unsupervised-learning', 'video', 'video-representation', 'video-summarization']",2019-11-21T10:52:50Z
+jiangqn__Unsupervised-Sentiment-Lexicon-Extraction,master,1,7,"['sentiment-lexicons', 'unsupervised-learning']",2019-11-23T12:48:18Z
+leftthomas__SimCLR,master,109,515,"['cifar10', 'contrastive-loss', 'pytorch', 'unsupervised-learning']",2019-12-11T04:03:23Z
+antao97__UnsupervisedPointCloudReconstruction,master,27,157,"['auto-encoder', 'feature-learning', 'point-cloud', 'pytorch', 'unsupervised-learning']",2019-12-03T13:10:56Z
+addtt__ladder-vae-pytorch,master,10,85,"['generative-models', 'ladder-vae', 'ladder-variational-autoencoders', 'pytorch', 'representation-learning', 'unsupervised-learning', 'vae', 'variational-autoencoders', 'variational-inference']",2019-12-05T14:12:01Z
+addtt__multi-object-datasets,master,3,8,"['dataset', 'datasets', 'generative-models', 'multi-object', 'pytorch', 'representation-learning', 'supervised-learning', 'unsupervised-learning']",2019-12-24T18:42:32Z
+AlouiAmine__video_summarization,master,0,4,"['lstm-neural-networks', 'pytorch', 'reinforcement-learning', 'reinforcement-learning-algorithms', 'resnet-152', 'unsupervised-learning', 'video', 'video-summarization']",2020-01-02T13:35:26Z
+addtt__attend-infer-repeat-pytorch,master,3,20,"['air', 'attend-infer-repeat', 'generative-models', 'pytorch', 'representation-learning', 'scene-understanding', 'unsupervised-learning', 'vae', 'variational-autoencoder', 'variational-inference']",2020-01-13T15:57:30Z
+bl0__moco,master,18,143,"['contrast-learning', 'imagenet', 'moco', 'momentum-contrast', 'pytorch', 'resnet-50', 'self-supervised-learning', 'unsupervised-learning']",2020-01-23T10:22:58Z
+teddykoker__unsupervised-deep-homography,master,21,59,[],2020-01-30T01:16:39Z
+hanyoseob__pytorch-noise2void,master,13,85,"['cnn', 'deep-learning', 'deep-neural-networks', 'noise2void', 'pytorch-gan', 'unsupervised-learning']",2020-02-13T16:41:54Z
+agrija9__Deep-Unsupervised-Domain-Adaptation,master,21,69,"['conditional-adversarial-da', 'convolutional-neural-networks', 'coral-loss', 'deep-coral', 'deep-domain-confusion', 'domain-adaptation', 'unsupervised-learning']",2020-02-16T17:34:10Z
+hanyoseob__pytorch-noise2noise,master,4,12,"['cnn', 'deep-learning', 'deep-neural-networks', 'noise2noise', 'pytorch-gan', 'unsupervised-learning']",2020-02-13T16:41:28Z
+DuaneNielsen__iic,master,1,10,"['classification-algorithm', 'deep-learning', 'pytorch', 'unsupervised-learning']",2020-02-06T03:15:23Z
+ipeis__UG-VAE,master,0,7,"['deep-learning', 'pytorch', 'unsupervised-learning', 'vae']",2020-02-18T15:55:49Z
+lliuz__ARFlow,master,50,245,"['cvpr2020', 'optical-flow', 'pytorch', 'self-supervised-learning', 'unsupervised-learning']",2020-03-06T13:03:05Z
+mdiephuis__SimCLR,master,12,79,"['contrastive-learning', 'pytorch', 'representation-learning', 'simclr', 'unsupervised-learning']",2020-03-04T15:37:19Z
+sfme__RVAE_MixedTypes,master,12,47,"['data-analysis', 'deep-learning', 'generative-model', 'outlier-detection', 'python', 'pytorch', 'repair', 'robust-variational-autoencoders', 'tabular-data', 'unsupervised-learning']",2020-02-21T11:14:14Z
+gudovskiy__al-fk-self-supervision,master,6,32,"['active-learning', 'fisher-vectors', 'image-classification', 'image-recognition', 'self-supervised-learning', 'unsupervised-learning']",2020-02-29T02:30:34Z
+elliottwu__unsup3d,master,194,1177,"['3d', '3d-objects', '3d-reconstuction', 'cvpr', 'cvpr-2020', 'cvpr2020', 'pytorch', 'unsupervised', 'unsupervised-learning']",2020-03-10T10:48:57Z
+Spijkervet__SimCLR,master,155,697,"['contrastive-learning', 'pytorch', 'representation-learning', 'simclr', 'unsupervised-learning']",2020-03-10T10:52:29Z
+alexklwong__unsupervised-depth-completion-visual-inertial-odometry,master,23,180,"['3d-reconstruction', '3d-vision', 'computer-vision', 'deep-learning', 'depth', 'depth-completion', 'depth-estimation', 'icra', 'kitti', 'machine-learning', 'ral', 'self-supervised-learning', 'sensor-fusion', 'tensorflow', 'ucla', 'unsupervised-learning', 'void']",2020-03-10T09:42:02Z
+szq0214__Un-Mix,master,14,148,"['image-mixture', 'pytorch', 'self-supervised-learning', 'smooth-decision-boundaries', 'unsupervised-learning']",2020-03-11T00:52:09Z
+mees__Adversarial-Skill-Networks,master,4,19,"['adversarial-skill-networks', 'deep-learning', 'learning-from-videos', 'machine-learning', 'pytorch', 'representation-learning', 'unsupervised-skill-learning']",2020-03-16T10:24:51Z
+tayebiarasteh__retweet,master,5,11,"['bidirectional-lstm', 'deep-learning', 'deep-neural-networks', 'lstm', 'manual-annotations', 'natural-language', 'natural-language-processing', 'nlp', 'pytorch', 'sentiment-analysis', 'sentiment-polarity', 'text-classification', 'text-data', 'tweepy', 'tweet', 'tweet-analysis', 'tweet-data', 'tweet-replies', 'tweeter', 'unsupervised-learning']",2020-03-22T23:06:49Z
+ZIYU-DEEP__Semi-Supervised-Anomaly-Detection-Pytorch,master,2,1,"['anomaly-detection', 'deep-learning-tutorial', 'pytorch', 'semi-supervised-learning', 'unsupervised-learning']",2020-03-14T16:26:22Z
+yzhq97__transmomo.pytorch,master,53,377,"['cvpr', 'dance', 'generative-adversarial-network', 'motion-retargeting', 'unsupervised-learning']",2020-04-01T01:22:33Z
+tmoopenn__monet-with-spatially-constrained-segmentation,master,1,1,"['pytorch', 'representation-learning', 'unsupervised-learning']",2020-03-31T18:41:25Z
+Hemantr05__Representation-learning-using-Siamese-Autoencoders,master,0,1,"['autoencoder', 'contrastive-loss', 'pytorch', 'pytorch-implementation', 'representation-learning', 'semi-supervised-learning', 'siamese-neural-network', 'similarity', 'unsupervised-learning']",2020-04-04T16:36:18Z
+TorRient__Video-Summarization-Pytorch,master,10,39,"['computer-vision', 'deep-learning', 'unsupervised-learning', 'video-summaries', 'video-summarization']",2020-04-14T01:05:07Z
+evanmy__sae,master,9,32,"['autoencoder', 'brain', 'deep-learning', 'mri', 'pytorch', 'segmentation', 'unsupervised', 'variational-autoencoder']",2020-04-13T18:21:36Z
+hanyoseob__youtube-cnn-005-pytorch-GAN,master,5,3,"['dcgan', 'gan', 'pytorch', 'pytorch-gan', 'unsupervised-learning']",2020-04-18T01:36:53Z
+pvnieo__SURFMNet-pytorch,master,4,15,"['functional-maps', 'python3', 'pytorch', 'shape-correspondence', 'shape-descriptor', 'shape-matching', 'surfmnet-pytorch', 'unsupervised-deep-learning']",2020-05-06T09:28:21Z
+hanyoseob__youtube-cnn-006-pytorch-pix2pix,master,4,5,"['cgan', 'conditional-gan', 'pix2pix', 'pytorch', 'pytorch-implementation', 'unsupervised-learning']",2020-05-04T03:48:02Z
+nicomignoni__som,master,1,2,"['kohonen', 'self-organizing-map', 'som', 'unsupervised-learning']",2020-05-03T13:07:15Z
+open-mmlab__OpenUnReID,master,67,386,"['domain-translation', 'image-retrieval', 'open-set-domain-adaptation', 'pseudo-labeling', 're-identification', 'unsupervised-domain-adaptation', 'unsupervised-learning']",2020-05-25T03:33:45Z
+basilevh__object-discovery-cp-gan,master,2,15,"['computer-vision', 'gan', 'generative-adversarial-network', 'machine-learning', 'object-discovery', 'object-segmentation', 'unsupervised-learning']",2020-05-16T01:10:47Z
+vidit98__FrameSelect,master,3,9,"['cvpr2020', 'davis-challenge', 'pytorch', 'unsupervised', 'video-object-segmentation']",2020-05-21T16:02:36Z
+best-of-acrv__unsupervised-depth-estimation,master,0,4,[],2020-05-20T00:33:08Z
+hanyoseob__youtube-cnn-007-pytorch-cyclegan,master,4,3,"['cyclegan', 'pytorch', 'pytorch-implementation', 'unsupervised-learning']",2020-05-24T19:25:36Z
+mpatacchiola__self-supervised-relational-reasoning,master,24,138,"['deep-learning', 'deep-neural-networks', 'deepcluster', 'relational-reasoning', 'rotnet', 'self-supervised-learning', 'simclr', 'stl10', 'unsupervised-learning']",2020-06-08T11:04:07Z
+ioangatop__srVAE,master,13,75,"['cifar-10', 'cifar10', 'generative-model', 'python3', 'pytorch', 'representation-learning', 'super-resolution', 'unsupervised-learning', 'unsupervised-machine-learning', 'vae', 'vae-pytorch', 'variational-autoencoder']",2020-06-04T10:27:09Z
+WangWenhao0716__Attentive-WaveBlock,master,8,29,"['person-reid', 'unsupervised-domain-adaptation']",2020-06-08T07:13:00Z
+sulaimanvesal__PointCloudUDA,master,3,27,"['cardiac-segmentation', 'deep-learning', 'domain-adaptation', 'point-cloud', 'segmentation', 'unsupervised-learning']",2020-06-06T20:39:44Z
+niuchuangnn__GATCluster,master,3,18,"['clustering', 'unsupervised-learning']",2020-06-06T17:48:39Z
+KrishnaDN__BERTphone,master,5,17,"['language-identification', 'machine-learning', 'pytorch', 'speaker-identification', 'speech-recognition', 'unsupervised-learning']",2020-05-28T13:21:17Z
+BorealisAI__PROVIDE,master,1,13,"['probabilistic', 'pytorch', 'uai', 'unsupervised', 'video-decomposition']",2020-06-09T23:40:53Z
+Karan-Malik__RestrictedBoltzmannMachine,master,1,3,"['artificial-intelligence', 'artificial-neural-networks', 'boltzmann-machines', 'deep-learning', 'deep-learning-algorithms', 'deep-neural-networks', 'numpy', 'numpy-neural-network', 'python', 'python3', 'pytorch', 'pytorch-implementation', 'restricted-boltzmann-machine', 'torch', 'unsupervised-deep-learning', 'unsupervised-learning', 'unsupervised-learning-algorithms', 'unsupervised-machine-learning']",2020-06-01T13:20:52Z
+roysubhankar__visual-domain-adaptation,master,0,1,"['domain-adaptation', 'pytorch', 'pytorch-implementation', 'unsupervised-domain-adaptation']",2020-06-04T13:17:21Z
+open-mmlab__mmselfsup,main,424,3029,"['beit', 'mae', 'masked-image-modeling', 'moco', 'pytorch', 'self-supervised-learning', 'simclr', 'simsiam', 'unsupervised-learning']",2020-06-12T05:29:42Z
+adobe__stringlifier,main,20,156,"['analysis', 'api', 'classification', 'clustering', 'convolutional-networks', 'long-short-term-memory', 'machine-learning', 'python3', 'pytorch', 'raw-text', 'tf-idf', 'unsupervised-machine-learning']",2020-06-26T20:18:44Z
+taikiinoue45__STAD,master,17,81,"['anomaly-detection', 'mvtec', 'pytorch', 'student-teacher-learning', 'unsupervised-learning']",2020-06-19T05:32:44Z
+monniert__dti-clustering,master,11,71,"['clustering', 'computer-vision', 'deep-learning', 'image-clustering', 'neurips-2020', 'neurips2020', 'pytorch', 'unsupervised-learning']",2020-06-16T12:25:55Z
+Harika2412__unsupervised_vsumm_pytorch,master,1,1,[],2020-06-16T10:40:14Z
+kanezaki__pytorch-unsupervised-segmentation-tip,master,58,245,[],2020-07-20T07:02:37Z
+chengchunhsu__EveryPixelMatters,master,21,158,"['adversarial-learning', 'anchor-free', 'computer-vision', 'domain-adaptation', 'eccv', 'eccv-2020', 'eccv2020', 'fcos', 'object-detection', 'pytorch', 'transfer-learning', 'unsupervised-domain-adaptation']",2020-07-22T05:49:28Z
+svip-lab__Indoor-SfMLearner,master,24,147,"['depth-estimation', 'eccv2020', 'extract-superpixel', 'indoor', 'nyuv2', 'pose-estimation', 'pytorch', 'scannet', 'self-supervised', 'unsupervised-learning']",2020-07-15T03:33:36Z
+NVlabs__DG-Net-PP,master,17,83,"['domain-adaptation', 'dukemtmc-reid', 'market-1501', 'msmt17', 'person-reid', 'person-reidentification', 'pytorch', 're-identification', 'unsupervised']",2020-07-16T15:14:04Z
+UoD-CVIP__Multi_Directional_CPC_Histology,master,1,3,"['contrastive-predictive-coding', 'deep-learning', 'machine-learning', 'pathology', 'pytorch', 'research', 'unsupervised-learning']",2020-07-28T12:48:55Z
+thammegowda__unmass,master,0,2,"['deeplearning', 'machine-translation', 'natural-language-generation', 'natural-language-processing', 'pytorch', 'unsupervised-learning']",2020-07-15T22:54:05Z
+xduan7__bioseq-learning,master,1,6,"['bioinformatics', 'biological-sequences', 'deep-learning', 'gene-sequences', 'genome', 'nucleotides', 'protein-sequences', 'pytorch', 'unsupervised-learning']",2020-08-13T14:21:26Z
+denn-s__SimCLR,master,0,4,"['contrastive-learning', 'pytorch', 'representation-learning', 'self-supervised-learning', 'simclr', 'unsupervised-learning']",2020-07-31T21:23:00Z
+simvisionX__Pytorch_Depth_Estimation_Code_Base,master,0,2,"['binocular-vision', 'codebase', 'depth-estimation', 'monodepth', 'pytorch-implementation', 'supervised', 'unsupervised']",2020-07-29T14:39:44Z
+sushantkumar-estech__Restricted-Boltzmann-Machine-Creation-as-Recommendation-System-for-Movie-Review-using-Pytorch,master,0,0,"['ai', 'artificial-intelligence', 'artificial-neural-networks', 'boltzmann', 'boltzmann-machine', 'boltzmann-machines', 'machine-learning', 'unsupervised-learning', 'unsupervised-machine-learning']",2020-08-10T23:38:25Z
+oke-aditya__image_similarity,master,58,238,"['auto-encoders', 'autoencoder', 'image-retrieval', 'image-similarity', 'pytorch', 'unsupervised-learning']",2020-08-19T13:51:44Z
+lucidrains__mlm-pytorch,master,24,162,"['artificial-intelligence', 'deep-learning', 'pre-training', 'transformers', 'unsupervised-learning']",2020-08-14T19:56:51Z
+kaiyuyue__mgd,master,13,61,"['classification', 'deep-learning', 'detection', 'detectron2', 'kd', 'knowledge-distillation', 'matching-guided-distillation', 'mgd', 'moco-v2', 'model-distillation', 'pytorch', 'unsupervised-learning']",2020-08-23T11:44:33Z
+DeepLense-Unsupervised__unsupervised-lensing,master,5,8,[],2020-08-14T22:34:43Z
+eezkni__UEGAN,master,14,108,"['compter-vision', 'enhancement-and-restoration', 'gan', 'generative-adversarial-network', 'image-manipulation', 'unsupervised-learning']",2020-09-04T07:22:25Z
+AFAgarap__ag-news-ae-clustering,master,0,3,"['ag-news-dataset', 'artificial-intelligence', 'artificial-neural-networks', 'autoencoder', 'clustering', 'deep-learning', 'deep-neural-networks', 'k-means-clustering', 'machine-learning', 'natural-language-processing', 'nlp', 'python', 'python3', 'pytorch', 'text-clustering', 'unsupervised-learning']",2020-09-03T13:04:13Z
+shangeth__wavencoder,master,14,82,"['audio-processing', 'deeplearning', 'hacktoberfest', 'pytorch', 'representation-learning', 'semi-supervised-learning', 'speaker-recognition', 'speech-processing', 'speech-recognition', 'speechrecognition', 'unsupervised-learning', 'voice-recognition']",2020-09-29T10:20:39Z
+alessiabertugli__FUSION,master,1,19,"['continual-learning', 'few-shot-learning', 'incremental-learning', 'meta-learning', 'representation-learning', 'self-attention', 'unsupervised-learning']",2020-09-18T09:41:17Z
+leftthomas__SimSiam,master,3,10,"['cnn', 'pytorch', 'unsupervised-learning']",2020-09-29T09:42:16Z
+Dylan-H-Wang__Zero-Bias-CAE,main,1,1,"['medical-image-processing', 'unsupervised-machine-learning']",2020-09-27T11:51:05Z
+julestalloen__pytorch-hebbian,master,22,70,"['hebbian-learning', 'image-classification', 'local-learning', 'pytorch', 'unsupervised-learning']",2020-10-04T11:28:19Z
+bl0__PIC,main,4,49,"['contrastive-learning', 'pytorch', 'self-supervised-learning', 'unsupervised-learning']",2020-10-19T07:07:21Z
+CVxTz__COLA_pytorch,master,4,39,"['audio', 'audio-processing', 'pytorch', 'transfer-learning', 'unsupervised-learning']",2020-10-31T10:47:48Z
+leftthomas__MoCo,master,8,35,"['cifar10', 'contrastive-learning', 'pytorch', 'unsupervised-learning']",2020-10-27T18:06:10Z
+leftthomas__DaCo,master,0,6,"['contrastive-learning', 'pytorch', 'unsupervised-learning', 'visual-localization']",2020-10-27T01:41:22Z
+UmarSpa__Unsupervised-Data-Augmentation-for-Consistency-Training,master,0,3,"['pytorch', 'uda', 'unsupervised-data-augmentation']",2020-10-21T11:07:42Z
+taikiinoue45__RIAD,main,12,64,"['anomaly-detection', 'deep-learning', 'mvtec', 'pytorch', 'unsupervised-learning']",2020-11-10T05:00:40Z
+jundsp__VAE-BSS,main,4,36,"['audio', 'deep-learning', 'image-segmentation', 'music-information-retrieval', 'pytorch', 'separation', 'unsupervised-machine-learning']",2020-11-10T02:50:48Z
+scheckmedia__centernet-uda,master,6,23,"['centernet', 'cnn', 'image-processing', 'neural-network', 'pytorch', 'uda', 'unsupervised-domain-adaptation']",2020-11-10T07:07:10Z
+taikiinoue45__cookiecutter-mvtec,main,0,0,"['anomaly-detection', 'deep-learning', 'mvtec', 'pytorch', 'unsupervised-learning']",2020-11-08T14:41:09Z
+qq456cvb__UKPGAN,master,3,59,"['computer-vision', 'cvpr2022', 'keypoint-detection', 'local-features', 'pytorch', 'rotation-invariant-features', 'tensorflow', 'unsupervised-learning']",2020-11-24T08:59:05Z
+hellowangqian__UDA-norm-VAE,main,3,12,"['data-augmentation', 'unsupervised-domain-adaptation', 'variational-autoencoder']",2020-11-30T21:24:21Z
+SamGalanakis__FlowCompare,main,1,4,"['change', 'change-detection', 'cloud', 'compare', 'deep-learning', 'flow', 'generative', 'normalizing-flows', 'point', 'point-cloud', 'pytorch', 'unsupervised']",2020-12-01T12:42:21Z
+parikshitkumar1__0x9_Generator,master,0,2,"['generative-adversarial-network', 'pytorch', 'pytorch-gan', 'streamlit-webapp', 'unsupervised-learning']",2020-12-19T17:18:03Z
+samysung__pytorch-unsupervised-segmentation-tip,master,0,0,[],2020-12-16T13:04:09Z
+yasinalm__gramme,master,7,34,"['lidar-odometry', 'radar-odometry', 'self-driving-cars', 'self-supervised-learning', 'unsupervised-learning', 'visual-odometry']",2021-01-11T23:18:24Z
+sjsu-smart-lab__Self-supervised-Monocular-Trained-Depth-Estimation-using-Self-attention-and-Discrete-Disparity-Volum,master,7,61,"['cityscapes-depth-estimation', 'discrete-disparity-volume', 'inplace-activated-batchnorm', 'kitti-dataset', 'monocular-depth-estimation', 'ordinal-regression', 'pytorch', 'self-attention', 'self-supervised-learning', 'unsupervised-learning']",2021-01-30T04:32:51Z
+taikiinoue45__PaDiM,main,3,31,"['anomaly-detection', 'deep-learning', 'mvtec', 'pytorch', 'unsupervised-learning']",2021-01-29T14:36:44Z
+kaylode__uda,main,0,3,"['pytorch', 'semi-supervised-learning', 'unsupervised-learning']",2021-01-24T04:48:43Z
+taikiinoue45__docker-mvtec,main,0,0,"['anomaly-detection', 'deep-learning', 'mvtec', 'pytorch', 'unsupervised-learning']",2021-01-29T13:24:45Z
+xrenaa__DisCo,main,9,131,"['deep-learning', 'disentangled-representations', 'gan', 'gans', 'generative-adversarial-network', 'generative-model', 'pytorch', 'pytorch-implementation', 'unsupervised-learning']",2021-02-19T17:18:39Z
+dsshim0125__dacl,main,0,16,"['contrastive-learning', 'deep-learning', 'depth-estimation', 'domain-adaptation', 'pytorch', 'semantic-segmentation', 'unsupervised-learning']",2021-02-08T04:54:48Z
+taikiinoue45__NFAD,main,0,0,"['anomaly-detection', 'deep-learning', 'mvtec', 'pytorch', 'unsupervised-learning']",2021-02-06T01:46:27Z
+cs696ds__da,main,0,0,"['data-augmentation', 'k-nearest-neighbors', 'label-propagation', 'nlp', 'pytorch', 'roberta', 'solr', 'tf-idf-vectorizer', 'unsupervised-learning']",2021-02-10T18:07:57Z
+jh-jeong__ContraD,main,24,188,"['contrastive-learning', 'data-augmentation', 'deep-learning', 'gan', 'generative-adversarial-network', 'iclr2021', 'pytorch', 'unsupervised-learning']",2021-03-01T04:31:29Z
+denisyarats__proto,main,15,79,"['control', 'deep-learning', 'dm-control', 'drq', 'gym', 'mujoco', 'pixel', 'proto', 'proto-rl', 'python', 'pytorch', 'reinforcement-learning', 'representation-learning', 'rl', 'sac', 'soft-actor-critic', 'unsupervised-learning', 'unsupervised-rl']",2021-02-22T05:50:15Z
+tianyu0207__CCD,main,7,43,"['anomaly-detection', 'deep-learning', 'medical-image-analysis', 'pytorch', 'unsupervised-learning']",2021-03-05T01:25:54Z
+yuPeiyu98__Deep-Region-Competition,main,3,37,"['energy-based-model', 'neurips-2021', 'pytorch', 'segmentation', 'unsupervised-learning']",2021-02-25T04:03:53Z
+Pangoraw__PaDiM,main,2,21,"['anomaly-detection', 'mvtec-ad', 'pytorch', 'unsupervised-learning']",2021-03-03T13:37:50Z
+ML-Recipes__BERT-FAQ,main,1,6,"['bert-fine-tuning', 'covid-19', 'embeddings', 'faq', 'pytorch', 'reranking', 'rest-api', 'sentence-transformers', 'stackexchange', 'supervised', 'unsupervised']",2021-03-02T12:56:21Z
+sezaiacers__glow,main,0,2,"['glow', 'normalizing-flow', 'normalizing-flows', 'paper', 'unsupervised-learning']",2021-02-28T20:05:42Z
+leftthomas__OSSCo,master,0,1,"['contrastive-learning', 'gan', 'pytorch', 'unsupervised-learning']",2021-03-05T04:15:11Z
+eliphatfs__SkeletonMerger,main,14,61,"['3d-computer-vision', 'cvpr2021', 'pytorch', 'unsupervised-learning']",2021-03-12T04:11:45Z
+breadcake__unsupervisedDeepHomography-pytorch,main,5,30,[],2021-03-22T08:47:18Z
+vkinakh__scatsimclr,master,5,24,"['contrastive-learning', 'iccv2021', 'pytorch', 'scatnet', 'unsupervised-learning']",2021-03-13T20:28:07Z
+matciotola__Z-PNN,master,8,49,"['deep-learning', 'neural-network', 'pansharpening', 'pytorch', 'remote-sensing', 'super-resolution', 'unsupervised-deep-learning']",2021-04-07T12:25:07Z
+keswani-Rohitkumar__Unsupervised_Learning_with-GANs,main,0,1,"['computer-vision', 'deep-learning', 'gan-model', 'gans', 'mnist-dataset', 'pytorch', 'unsupervised-learning']",2021-03-30T17:57:40Z
+borea17__StrImaDec,main,0,1,"['clustering', 'discrete-optimization', 'generative-models', 'gradient-estimator', 'object-centric', 'pytorch', 'pytorch-lightning', 'unsupervised-learning', 'vae']",2021-04-09T10:30:31Z
+nadeemlab__CEP,main,10,61,"['area-coverage', 'colonoscopy', 'computer-vision', 'deep-learning', 'domain-adaptation', 'endoscopy', 'gan', 'pytorch', 'real2sim', 'segmentation', 'sim2real', 'tracking', 'unsupervised-learning', 'videos']",2021-04-22T14:11:17Z
+monniert__dti-sprites,main,7,44,"['computer-vision', 'deep-learning', 'iccv2021', 'image-decomposition', 'multi-object', 'pytorch', 'sprites', 'unsupervised', 'unsupervised-learning']",2021-04-26T09:32:07Z
+leofanzeres__s2i,main,0,4,"['computational-imagination', 'computer-vision', 'cross-modal-hashing', 'deep-learning', 'gans', 'people-centered-ai', 'pytorch', 'sound-to-image', 'unsupervised-learning']",2021-04-21T03:56:38Z
+LinguoLi__CrosSCLR,main,21,55,"['3d-human-action', 'multi-view', 'representation-learning', 'rgb-d', 'skeleton-based-action-recognition', 'unsupervised-learning']",2021-04-29T15:55:29Z
+KyivAIGroup__iterative-winners-take-all,master,0,2,"['hebbian-learning', 'plasticity', 'pytorch', 'sparse-coding', 'unsupervised-learning', 'winner-take-all']",2021-05-11T08:52:57Z
+lucidrains__protein-bert-pytorch,main,24,138,"['artificial-intelligence', 'deep-learning', 'protein-sequences', 'unsupervised-learning']",2021-05-26T18:19:08Z
+Talegqz__unsupervised_co_part_segmentation,main,6,41,"['deep-learning', 'pytorch']",2021-05-24T02:36:09Z
+MaxLikesMath__Barlow-Twins-Pytorch,main,2,12,"['barlow-twins', 'cnn', 'computer-vision', 'deep-learning', 'python', 'pytorch', 'pytorch-cnn', 'pytorch-implementation', 'self-super', 'self-supervised-learning', 'unsupervised-learning']",2021-05-16T15:00:27Z
+amirbar__DETReg,main,44,331,"['deep-learning', 'object-detection', 'pytorch', 'unsupervised-learning']",2021-06-09T09:34:55Z
+UKPLab__useb,main,2,32,"['benchmark', 'domain-adaptation', 'information-retrieval', 'nlp', 'paraphrase-identification', 'pytorch', 'reranking', 'sbert', 'sentence-embeddings', 'transformer', 'unsupervised-learning']",2021-06-03T17:43:21Z
+Pangoraw__SemiOrthogonal,main,4,22,"['anomaly-detection', 'covariance-matrix', 'mahalanobis-distance', 'mvtec', 'mvtec-ad', 'pytorch', 'unsupervised-learning']",2021-06-04T20:58:42Z
+somepago__AMA,main,3,14,"['anomaly-detection', 'deep-learning', 'pytorch', 'unsupervised-learning']",2021-06-08T22:47:34Z
+niektuytel__Machine_Learning,main,1,7,"['deeplearning', 'machine-learning', 'python', 'pytorch', 'reinforcementlearning', 'supervisedlearning', 'tensorflow2', 'unsupervisedlearning']",2021-06-09T07:37:45Z
+jnhwkim__orthoad,main,5,24,"['anomaly-segmentation', 'kolektor-sdd', 'mvtec-ad', 'pytorch', 'unsupervised-learning']",2021-06-17T05:00:57Z
+fbuchert__context-encoder-pytorch,master,4,7,"['adversarial-learning', 'computer-vision', 'image-inpainting', 'machine-learning', 'self-supervised-learning', 'unsupervised-learning']",2021-06-26T16:54:29Z
+ss-sparsh__SuperResolutionGAN,main,0,2,"['deep-learning', 'gan', 'generative-adversarial-network', 'mnist-dataset', 'pytorch', 'super-resolution', 'unsupervised-learning']",2021-06-16T17:55:02Z
+Gabrysse__CBS-realtimeDA-semSeg,main,0,0,"['adversarial-learning', 'deep-learning', 'deep-neural-networks', 'domain-adaptation', 'image-to-image-translation', 'python', 'pytorch', 'real-time-semantic-segmentation', 'semantic-segmentation', 'style-transfer', 'university-project', 'unsupervised-domain-adaptation']",2021-06-18T09:19:32Z
+keonlee9420__VAENAR-TTS,main,14,69,"['duration', 'glow', 'neural-tts', 'non-ar', 'non-autoregressive', 'pytorch', 'self-attention', 'speech-synthesis', 'text-to-speech', 'transforer', 'tts', 'unsupervised-duration', 'unsupervised-learning', 'vae']",2021-07-15T07:58:32Z
+jacobzhaoziyuan__MT-UDA,main,11,26,"['convolutional-neural-networks', 'generative-adversarial-network', 'image-segmentation', 'medical-image-analysis', 'pytorch', 'semi-supervised-learning', 'ssl', 'uda', 'unet', 'unsupervised-domain-adaptation']",2021-07-07T10:08:50Z
+zysymu__AdaMatch-pytorch,main,4,24,"['deep-learning', 'domain-adaptation', 'pytorch', 'pytorch-implementation', 'unsupervised-domain-adaptation', 'unsupervised-learning']",2021-07-07T18:27:59Z
+yizhe-ang__AdaMatch-PyTorch,main,3,13,"['computer-vision', 'deep-learning', 'domain-adaptation', 'pytorch', 'semi-supervised-learning', 'unsupervised-learning']",2021-07-08T02:51:06Z
+gudovskiy__cflow-ad,master,56,215,"['anomaly', 'detection', 'mvtec', 'mvtec-ad', 'normalizing-flows', 'unsupervised']",2021-07-27T00:45:21Z
+ImKeTT__FET-LM,main,1,13,"['nlp', 'text-generation', 'topic-modeling', 'unsupervised-learning', 'vae']",2021-07-26T09:13:02Z
+astrid-merckling__SRL4RL,master,2,3,"['control', 'deep-learning', 'deep-reinforcement-learning', 'exploration', 'gym', 'machine-learning', 'pixel', 'pretraining', 'python', 'pytorch', 'robotics', 'state-representation-learning', 'unsupervised-learning']",2021-07-22T12:23:42Z
+cvlab-stonybrook__LSAE,main,5,8,"['chestx-ray14', 'covid-19', 'data-augmentation', 'medical-imaging', 'representation-learning', 'swapping-autoencoder', 'unsupervised-learning']",2021-08-07T21:19:11Z
+keonlee9420__Comprehensive-Transformer-TTS,main,38,305,"['comprehensive', 'deep-learning', 'fastspeech', 'fastspeech2', 'hifi-gan', 'mel-gan', 'multi-speaker', 'neural-tts', 'non-ar', 'non-autoregressive', 'pytorch', 'single-speaker', 'sota', 'speech-synthesis', 'supervised', 'text-to-speech', 'transformer', 'tts', 'ultimate-tts', 'unsupervised']",2021-08-24T15:24:45Z
+alexklwong__calibrated-backprojection-network,master,23,104,"['3d-reconstruction', '3d-vision', 'backprojection', 'calibration', 'computer-vision', 'deep-learning', 'depth-completion', 'depth-estimation', 'iccv', 'iccv2021', 'kitti', 'kitti-dataset', 'machine-learning', 'pytorch', 'self-supervised-learning', 'sensor-fusion', 'ucla', 'unsupervised-learning', 'void', 'void-dataset']",2021-08-23T18:09:30Z
+VinAIResearch__LeMul,master,4,49,"['3d-graphics', '3d-object-reconstruction', '3d-objects', '3d-reconstruction', 'anaconda3', 'computer-vision', 'deep-learning', 'iccv', 'iccv-2021', 'iccv2021', 'iccv21', 'phong-shading', 'python3', 'pytorch', 'unsupervised-learning', 'vinai']",2021-08-23T08:06:13Z
+tripathiarpan20__US-Transporter-eval,main,0,1,"['deep-learning', 'medical-imaging', 'pytorch', 'unsupervised-learning']",2021-08-18T18:09:16Z
+GoGoDuck912__pytorch-vector-quantization,main,7,24,"['computer-vision', 'deep-learning', 'self-supervised-learning', 'unsupervised-clustering', 'vector-quantization']",2021-09-13T08:26:51Z
+smkim7-kr__AdaMatch-pytorch,master,1,8,"['computer-vision', 'deep-learning', 'domain-adaptation', 'semi-supervised-domain-adaptation', 'semi-supervised-learning', 'unsupervised-domain-adaptation']",2021-09-08T16:51:30Z
+mhw32__contrastive-ring-public,main,2,7,"['negative-sampling', 'self-supervised-learning', 'unsupervised-learning']",2021-09-15T20:06:54Z
+bhigy__discrete-repr,main,0,1,"['deep-learning', 'discrete-representations', 'interpretability', 'pytorch', 'speech-processing', 'unsupervised-learning']",2021-09-15T08:36:24Z
+konstantinay__Image-Retrieval-system-using-Autoencoders.,main,0,0,"['autoencoder', 'image-processing', 'image-retrieval', 'neural-networks', 'pytorch', 'unsupervised-learning']",2021-10-01T20:54:56Z
+jfc43__self-training-ensembles,master,1,13,"['deep-learning', 'error-detection', 'machine-learning', 'pytorch', 'self-training-ensembles', 'unsupervised-accuracy-estimation']",2021-10-14T19:07:03Z
+mhw32__temperature-as-uncertainty-public,main,4,11,"['self-supervised-learning', 'uncertainty-estimation', 'unsupervised-learning']",2021-10-08T05:41:30Z
+s-chh__PyTorch-DANN,main,0,3,"['dann', 'domain-alignment', 'pytorch-dann', 'revgrad', 'unsupervised-domain-adaptation']",2021-10-04T05:50:40Z
+kekoawong__UnsupervisedLanguageTranslation,main,0,1,"['machine-learning', 'machine-translation', 'nlp', 'python', 'pytorch', 'unsupervised-learning']",2021-10-14T02:34:18Z
+s-chh__PyTorch-MDC,main,0,0,"['domain-adaptation', 'domain-alignment', 'maximum-domain-confusion', 'unsupervised-domain-adaptation']",2021-10-04T20:57:59Z
+acmi-lab__PU_learning,main,4,43,"['deep-learning', 'domain-adaptation', 'machine-learning', 'pu-learning', 'pytorch', 'unsupervised-learning']",2021-10-24T23:50:46Z
+kimy-de__DeepkMeans,main,0,2,"['autoencoders', 'clustering', 'deep-learning', 'mnist', 'pytorch', 'unsupervised-learning']",2021-11-20T23:08:47Z
+Jiahao000__ORL,master,5,57,"['neurips-2021', 'orl', 'pytorch', 'representation-learning', 'self-supervised-learning', 'unsupervised-learning']",2021-12-06T04:06:04Z
+miossl__miossl,main,1,0,"['cifar', 'cifar-10', 'cifar-100', 'cifar10', 'cifar100', 'computer-vision', 'deep-learning', 'deep-neural-networks', 'deeplearning', 'ieee', 'machine-learning', 'machinelearning', 'pattern-recognition', 'pytorch', 'self-supervised-learning', 'stl10', 'unsupervised-learning']",2021-11-21T14:53:29Z
+yueliu1999__DCRN,main,30,203,"['data-mining', 'deep-clustering', 'deep-learning', 'gcn', 'graph-convolutional-network', 'graph-convolutional-networks', 'graph-neural-networks', 'network-embedding', 'pytorch', 'representation-learning', 'self-supervised-learning', 'unsupervised-learning']",2021-12-09T02:33:18Z
+Kinpzz__UDASOD-UPL,main,8,28,"['copy-paste', 'pytorch', 'salient-object-detection', 'segmentation', 'unsupervised-domain-adaptation']",2021-12-15T05:01:53Z
+pederismo__CTFSH,main,1,4,"['anomaly-detection', 'deep-learning', 'medical-imaging', 'monai', 'pytorch', 'pytorch-lightning', 'unsupervised-learning']",2021-12-15T22:33:07Z
+TFboys-lzz__MPSCL,main,1,23,"['cardiac-segmentation', 'contrastive-learning', 'pseudo-label', 'pytorch', 'unsupervised-domain-adaptation']",2022-01-10T10:10:27Z
+Lollipop__CRLT,main,0,8,"['contrastive-learning', 'data-augmentation', 'pytorch', 'sentence-embedding', 'simcse', 'unsupervised-learning']",2022-01-24T04:56:22Z
+kunheek__style-aware-discriminator,main,9,109,"['cvpr2022', 'deep-learning', 'image-to-image-translation', 'image-translation', 'pytorch', 'unsupervised-learning']",2022-02-19T03:37:01Z
+eliahuhorwitz__3D-ADS,main,12,92,"['anomaly-detection', 'anomaly-segmentation', 'deep-learning', 'machine-learning', 'mvtec-3d-ad', 'mvtec-ad', 'point-cloud', 'pytorch', 'unsupervised-learning']",2022-03-11T08:06:52Z
+YangtaoWANG95__TokenCut_video,master,2,52,"['attention', 'saliency-detection', 'transformer', 'unsupervised-object-detection', 'unsupervised-video-segmentation']",2022-03-07T10:13:28Z
+minhna1112__GANVO-PyTorch,main,1,6,"['generative-adversarial-network', 'unsupervised-learning', 'visual-odometry']",2022-03-12T08:48:57Z
+Rayhane-mamah__Efficient-VDVAE,main,21,176,"['image-generation', 'jax', 'paper', 'python', 'pytorch', 'representation-learning', 'unsupervised-learning', 'vae']",2022-03-22T23:41:50Z
+emadeldeen24__AdaTime,adatime_v2,14,130,"['cdan', 'dann', 'deep-coral', 'deep-learning', 'domain-adaptation', 'dsan', 'eeg', 'fault-detection', 'fault-diagnosis', 'homm', 'human-activity-recognition', 'pytorch', 'sleep-stage-classification', 'time-series', 'transfer-learning', 'unsupervised-domain-adaptation']",2022-03-17T01:22:42Z
+notmahi__disk,main,1,18,"['continual-learning', 'reinforcement-learning', 'skill-learning', 'unsupervised-learning']",2022-03-21T15:06:26Z
+bupt-ai-cz__HIAST,main,0,10,"['computer-vision', 'deep-learning', 'pytorch', 'semantic-segmentation', 'unsupervised-domain-adaptation']",2022-03-26T02:28:15Z
+rashad101__Tree-KGQA,main,0,2,"['pytorch', 'question-answering', 'unsupervised-learning']",2022-03-13T19:04:56Z
+Phoenix-Shen__UGATIT_PyTorch_Implementation,main,0,1,"['attention', 'image-to-image-translation', 'style-transfer', 'unsupervised']",2022-03-20T12:50:08Z
+monniert__unicorn,main,14,158,"['3d-reconstruction', 'analysis-by-synthesis', 'computer-vision', 'deep-learning', 'differentiable-rendering', 'eccv-2022', 'eccv2022', 'mesh-generation', 'pytorch', 'single-view-reconstruction', 'unsupervised', 'unsupervised-learning']",2022-04-12T07:40:43Z
+keonlee9420__Comprehensive-E2E-TTS,main,19,141,"['deep-learning', 'end-to-end', 'fastspeech2', 'hifi-gan', 'jets', 'multi-speaker', 'neural-tts', 'non-ar', 'non-autoregressive', 'pytorch', 'single-speaker', 'sota', 'speech-synthesis', 'text-to-speech', 'text-to-wav', 'tts', 'ultimate-tts', 'unsupervised']",2022-03-30T08:02:49Z
+cjf8899__CDRL,main,6,44,"['change-detection', 'pytorch', 'unsupervised-learning']",2022-04-12T14:06:26Z
+Zhongying-Deng__DIDA,main,1,10,"['domain-adaptation', 'multi-source-domain-adaptation', 'unsupervised-domain-adaptation']",2022-04-06T12:11:42Z
+liudakai2__UnsupDIS-pytorch,main,15,86,"['pytorch', 'unsupervised-stitching']",2022-05-04T07:15:48Z
+tenghehan__AuxUSLReID,master,5,8,"['pytorch', 're-identification', 'unsupervised-learning']",2022-05-05T16:25:41Z
+salesforce__MUST,main,12,103,"['clip', 'masked-image-modeling', 'self-training', 'unsupervised-learning', 'zero-shot-classification', 'zero-shot-learning']",2022-05-24T00:05:36Z
+penghu-cs__UCCH,main,9,30,"['contrastive-learning', 'cross-modal-hashing', 'cross-modal-retrieval', 'unsupervised-learning']",2022-05-20T00:14:50Z
+kwkimonline__sIPM-LFR,main,1,3,"['fairness-ai', 'machine-learning', 'pytorch', 'unsupervised-learning']",2022-05-16T00:29:39Z
+for0nething__FACE-A-Normalizing-Flow-based-Cardinality-Estimator,main,5,19,"['cardinality-estimation', 'deep-generative-model', 'density-estimation', 'learned-database', 'learned-database-components', 'normalizing-flow', 'query-optimization', 'unsupervised-learning']",2022-06-24T09:39:02Z
+theo2021__OnDA,main,2,24,"['catastrophic-forgetting', 'domain-adaptation', 'machine-learning', 'ml', 'online-adaptation', 'online-learning', 'pytorch', 'unsupervised-domain-adaptation']",2022-07-10T09:08:23Z
+sauradip__SPOT,main,1,19,"['action-detection', 'action-recognition', 'self-supervised-learning', 'semi-supervised-learning', 'temporal-action-detection', 'temporal-action-localization', 'unsupervised-learning', 'video-understanding']",2022-07-11T22:19:52Z
+ben-tsou__hlsl,main,0,0,"['hierarchical-reinforcement-learning', 'reinforcement-learning', 'skill-discovery', 'unsupervised-learning']",2022-07-12T20:40:33Z
+1adrianb__unsupervised-face-representation,main,5,59,"['emotion-recognition', 'face-alignment', 'face-recognition', 'face-representation-learning', 'pytorch', 'representation-learning', 'unsupervised-learning']",2022-07-19T16:16:28Z
+yinjunbo__ProposalContrast,master,4,47,"['lidar-point-cloud', 'object-detection', 'self-supervised-learning', 'unsupe', 'unsupervised-learning']",2022-07-20T07:38:25Z
+bbbdylan__unisiam,main,6,35,"['eccv2022', 'few-shot-classification', 'few-shot-learning', 'pytorch', 'self-supervised-learning', 'unsupervised-few-shot-learning']",2022-07-19T02:20:42Z
+alexklwong__mondi-python,master,2,33,"['3d-vision', 'blind-ensemble', 'computer-vision', 'deep-learning', 'depth-completion', 'depth-estimation', 'eccv2022', 'ensemble-learning', 'kitti-dataset', 'knowledge-distillation', 'machine-learning', 'monitored-distillation', 'pytorch', 'sensor-fusion', 'ucla', 'unsupervised-learning', 'void', 'void-dataset', 'yale']",2022-07-19T03:17:55Z
+ZwwWayne__DenseSiam,master,2,26,"['pytorch', 'representation-learning', 'unsupervised-learning', 'unsupervised-semantic-segmentation']",2022-07-20T11:31:30Z
+icon-lab__SynDiff,main,28,174,"['deep-learning', 'denoising-diffusion-models', 'diffusion-model', 'diffusion-models', 'image-synthesis', 'image-to-image-translation', 'medical-image-synthesis', 'medical-imaging', 'unsupervised']",2022-08-16T10:15:54Z
+chenzpstar__Multi-Modal-Image-Fusion,main,3,16,"['image-fusion', 'infrared', 'multi-modal-fusion', 'polarization', 'pytorch', 'unsupervised-learning']",2022-08-10T15:45:16Z
+creinders__ClusteringAlgorithmsFromScratch,main,1,9,"['jax', 'kmeans', 'mean-shift', 'numpy', 'python', 'pytorch', 'tensorflow2', 'unsupervised-clustering']",2022-08-07T14:27:53Z
+Harsh9524__CoCa,main,0,6,"['capsule-network', 'coca', 'computer-vision', 'deeplearning', 'python', 'pytorch', 'unsupervised-learning']",2022-08-13T17:39:10Z
+RS-CSU__UDAS-master,main,0,3,"['pytorch', 'remote-sensing', 'semanticsegmentation', 'unsupervised-domain-adaptation']",2022-08-16T03:05:19Z
+thatonegithub__DCGAN-Pytorch,main,0,0,"['computer-vision', 'dcgan', 'dcgan-mnist-tutorial', 'dcgan-pytorch', 'deep-learning', 'gan', 'pytorch', 'pytorch-implementation', 'representation-learning', 'unsupervised-learning']",2022-09-04T16:16:55Z
+vLAR-group__OGC,main,6,93,"['autonomous-vehicles', 'geometric-deep-learning', 'object-detection', 'object-segmentation', 'point-cloud', 'scene-flow-estimation', 'scene-understanding', 'unsupervised-learning']",2022-10-03T13:18:49Z
+ChenHongruixuan__SRGCAE,master,0,31,"['autoencoder', 'change-detection', 'graph-convolutional-networks', 'multimodal-data', 'remote-sensing', 'structural-relationship', 'unsupervised-learning']",2022-10-02T09:59:38Z
+MrChenFeng__SSR_BMVC2022,main,4,25,"['deep-learning', 'noisy-labels', 'pytorch', 'self-supervised-learning', 'semi-supervised-learning', 'supervised-learning', 'unsupervised-learning']",2022-09-30T13:58:38Z
+ChenLiu-1996__CUTS,main,2,22,"['deep-learning', 'image-segmentation', 'medical-image-segmentation', 'medical-imaging', 'multiscale', 'multiscale-segmentation', 'python', 'pytorch', 'self-supervised-learning', 'semantic-segmentation', 'unsupervised-deep-learning', 'unsupervised-learning', 'unsupervised-segmentation']",2022-09-29T23:55:18Z
+JohnnyHopp__PaDiM-EfficientNetV2,master,3,16,"['anomaly-detection', 'anomaly-detection-models', 'anomaly-localization', 'efficientnet', 'efficientnetv2', 'mahalanobis-distance', 'mvtec', 'mvtec-ad', 'pytorch', 'unsupervised-learning']",2022-10-01T11:49:54Z
+iROSA-lab__MINT,main,0,5,"['deep-learning', 'keypoints', 'pytorch', 'representation-learning', 'unsupervised-learning']",2022-10-03T08:07:53Z
+IKMLab__UASSU,main,0,2,"['aacl', 'aacl-ijcnlp-2022', 'abstractive-summarization', 'cnn-dailymail', 'natural-language-processing', 'nlp', 'pytorch', 'summarization', 'text-summarization', 'unsupervised', 'unsupervised-learning']",2022-09-26T02:52:51Z
+giacomopiccinini__UnsupervisedImageSegmentation,main,0,1,"['deep-learning', 'image-segmentation', 'pytorch', 'segmentation', 'unsupervised', 'unsupervised-segmentation']",2022-10-03T10:45:58Z
+r-gould__sslearn,master,0,0,"['artificial-intelligence', 'deep-learning', 'machine-learning', 'self-supervised-learning', 'unsupervised-learning']",2022-10-04T19:38:12Z
+davidsvy__hard-negative-mixing,main,2,9,"['artificial-intelligence', 'computer-vision', 'deep-learning', 'moco', 'neural-network', 'pytorch', 'self-supervised-learning', 'unsupervised-learning']",2022-10-16T16:17:42Z
+aptx1231__START,master,12,48,"['contrastive-learning', 'graph-attention-networks', 'icde', 'icde2023', 'representation-learning', 'self-supervised-learning', 'trajectory-analysis', 'trajectory-clustering', 'trajectory-prediction', 'trajectory-representation', 'trajectory-representation-learning', 'trajectory-similarity', 'transformer', 'unsupervised-learning']",2022-11-21T09:59:32Z
+FilippoMB__Total-variation-graph-neural-networks,main,3,20,"['clustering', 'community-detection', 'graph-clustering', 'graph-neural-network', 'graph-pooling', 'spectral-clustering', 'total-variation-loss', 'unsupervised-learning']",2022-11-08T13:52:42Z
+AndreaCamilloni__DD2412-DeepLearning,main,1,0,"['deep-learning', 'pytorch', 'self-classifier', 'transfer-learning', 'unsupervised-learning']",2022-11-09T13:29:57Z
+jonkahana__CLIPPR,main,1,26,"['classification', 'computer-vision', 'machine-learning', 'regression', 'unsupervised-learning', 'zero-shot-learning']",2022-11-24T16:29:17Z
+Guanzhou-Ke__cloven,main,0,13,"['multi-view-learning', 'pytorch', 'unsupervised-learning']",2022-11-24T08:44:49Z
+ayumiymk__DiG,main,7,58,"['dig', 'ocr', 'self-supervised-learning', 'text-recognition', 'unsupervised-learning']",2022-12-16T11:27:07Z
+qrzou__ILSGAN,main,0,4,"['aaai2023', 'generative-adversarial-network', 'object-segmentation', 'semantic-segmentation', 'unsupervised-learning', 'unsupervised-segmentation']",2022-12-29T15:47:21Z
+bscwty__DD2412-Project-Self-Classifier,main,0,0,"['deep-learning', 'pytorch', 'reproduction', 'self-supervised-learning', 'unsupervised-learning']",2023-01-15T22:34:21Z
+Abdoelabassi__MITx-MLtoDLwPython,main,0,0,"['deep-learning', 'edx', 'linear-algebra', 'machine-learning', 'mit', 'mitx', 'nueral-networks', 'python', 'pytorch', 'reinforcement-learning', 'scikit-learn', 'statistics', 'supervised-learning', 'unsupervised-learning']",2023-02-08T11:10:20Z
+addtt__variational-diffusion-models,main,3,46,"['diffusion', 'diffusion-models', 'generative-model', 'pytorch', 'unsupervised-learning', 'variational-inference']",2023-02-22T14:10:45Z
+kamwoh__sdc,master,0,15,"['bmvc', 'bmvc2023', 'deep-hashing', 'hashing', 'image-retrieval', 'unsupervised-hashing']",2023-02-15T09:04:26Z
+hynnsk__HP,main,4,57,"['computer-vision', 'cvpr2023', 'deep-learning', 'pytorch', 'semantic-segmentation', 'unsupervised-semantic-segmentation']",2023-03-27T12:10:34Z
+KevinWangHP__Anomaly-Clustering,master,3,12,"['anomaly-clustering', 'anomaly-detection', 'clustering', 'dino', 'patchcore', 'pytorch', 'unsupervised-learning']",2023-03-28T11:16:12Z
+Jiahao000__MFM,master,1,57,"['iclr2023', 'masked-frequency-modeling', 'pytorch', 'representation-learning', 'self-supervised-learning', 'unsupervised-learning']",2023-04-28T10:48:12Z
+GitHubOfHyl97__SkeAttnCLR,main,2,13,"['contrastive-learning', 'part-aware', 'representation-learning', 'self-supervised-learning', 'skeleton-based-action-recognition', 'unsupervised-learning']",2023-04-30T07:24:16Z
+Wuziyi616__SlotDiffusion,main,5,64,"['computer-vision', 'diffusion-models', 'object-centric-learning', 'pytorch', 'unsupervised-segmentation', 'vqa']",2023-05-13T19:15:03Z
+vLAR-group__GrowSP,main,7,123,"['3d', '3d-scene-understanding', '3d-semantic-segmentation', 'geometric-deep-learning', 'pointcloud', 'self-driving', 'unsupervised-deep-learning', 'unsupervised-learning']",2023-05-24T17:48:28Z
+ChenHongruixuan__I3PE,master,0,24,"['change-detection', 'convolutional-neural-networks', 'deep-learning', 'object-based-image-analysis', 'python', 'pytorch', 'remote-sensing', 'semi-supervised-learning', 'single-temporal', 'unsupervised-learning']",2023-05-27T09:46:00Z
+sunyoungIT__MM-Net,main,0,2,"['denoising', 'ieee', 'ldct', 'pytorch', 'unsupervised']",2023-05-20T08:56:06Z
+wzjialang__SR-AQA,main,1,3,"['miccai', 'regression', 'simulation-to-real', 'sr-aqa', 'transoesophageal-echocardiography', 'unsupervised-domain-adaptation']",2023-06-26T22:41:09Z
+SMSD75__Timetuning,main,1,23,"['computer-vision', 'deep-learning', 'iccv2023', 'pytorch', 'self-supervised-learning', 'semantic-segmentation', 'unsupervised-learning', 'videos']",2023-07-06T08:45:21Z
+matciotola__Lambda-PNN,main,2,18,"['cnn', 'deep-learning', 'geoeye-1', 'multispectral', 'neural-network', 'neural-networks', 'neural-networks-from-scratch', 'pansharpening', 'pytorch', 'remote-sensing', 'unsupervised-deep-learning', 'worldview-2', 'worldview-3']",2023-07-25T07:47:36Z
+John-Venti__Self-DACE,main,8,59,"['lightweight', 'llie', 'low-level', 'low-light-face-detection', 'low-light-image-enhancement', 'low-light-segmentation', 'pytorch', 'unsupervised-learning']",2023-08-15T09:18:54Z
+josemateosramos__SSLISAC,main,3,4,"['hardware-impairment', 'integrated-sensing-and-communication', 'machine-learning', 'model-based-machine-learning', 'python', 'pytorch', 'semi-supervised-learning', 'unsupervised-learning']",2023-09-15T06:56:56Z
+ahmdtaha__distributed_sigmoid_loss,main,0,4,"['contrastive-learning', 'distributed-data-parallel', 'multimodal-deep-learning', 'python3', 'pytorch', 'self-supervised-learning', 'unsupervised-learning', 'vision-and-language', 'vision-language', 'vision-language-pretraining', 'vision-transformer']",2023-09-23T20:39:06Z
+PericlesHat__GRACE-pytorch,main,0,1,"['clustering', 'graph-neural-networks', 'unsupervised-learning']",2023-10-17T03:38:03Z
+renan-siqueira__autoencoder-research,main,0,1,"['autoencoder', 'computer-vision', 'container', 'convolutional-neural-network', 'data-augmentation', 'deep-learning', 'dimensionality-reduction', 'docker', 'dockerfile', 'image-processing', 'image-reconstruction', 'machine-learning', 'model-checkpoint', 'neural-networks', 'python', 'pytorch', 'unsupervised-learning', 'variational-autoencoder', 'virtualization']",2023-10-13T18:45:20Z
+Mr-SGXXX__Clustering,master,1,6,"['classical-clustering', 'clustering', 'clustering-tools', 'datasets', 'deep-clustering', 'deep-learning', 'machine-learning', 'paperlist', 'pytorch', 'unsupervised-learning']",2023-12-19T13:51:25Z
+ChristophReich1996__SMURF,main,0,1,"['computer-vision', 'optical-flow', 'unsupervised-learning', 'unsupervised-optical-flow']",2024-01-01T16:55:24Z
+supersjgk__Cyclist_Stress,main,0,1,"['contrastive-loss', 'deep-learning', 'gaussian-processes', 'gpytorch', 'pytorch', 'unsupervised-domain-adaptation', 'warped-gaussian-process']",2024-01-13T21:00:59Z

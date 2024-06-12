@@ -1,0 +1,102 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CSVFileProcessor",
+            "request": "launch",
+            "mainClass": "CSVFileProcessor",
+            "projectName": "python_antlr"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "PythonClassVisitor",
+            "request": "launch",
+            "mainClass": "PythonClassVisitor",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "test3",
+            "request": "launch",
+            "mainClass": "test3",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "test4",
+            "request": "launch",
+            "mainClass": "test4",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "test5",
+            "request": "launch",
+            "mainClass": "test5",
+            "projectName": "python_antlr"
+        },
+        {
+            "type": "java",
+            "name": "testBlame",
+            "request": "launch",
+            "mainClass": "testBlame",
+            "projectName": "python_antlr"
+        }
+    ]
+}

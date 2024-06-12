@@ -1,0 +1,275 @@
+full_name,default_branch,forks,watchers,topics,created_at
+rohitgajawada__multimodal-ocr,master,0,1,[],2017-05-15T18:33:21Z
+SahilC__Cross-Modal-Style,master,0,1,"['cross-modal-retrieval', 'deep-learning', 'pytorch', 'style-transfer']",2017-09-21T05:48:33Z
+jrzaurin__pytorch-widedeep,master,182,1211,"['deep-learning', 'images', 'model-hub', 'multimodal-deep-learning', 'python', 'pytorch', 'pytorch-cv', 'pytorch-nlp', 'pytorch-tabular-data', 'pytorch-transformers', 'tabular-data', 'text']",2017-10-21T08:11:44Z
+Shivanshu-Gupta__Visual-Question-Answering,master,17,69,"['attention', 'cnn', 'deep-learning', 'lstm', 'multimodal-tucker-fusion', 'nlp', 'pytorch', 'stacked-attention-networks', 'visual-question-answering']",2017-10-24T06:43:18Z
+dnguyen1196__multi-modal-word-embeddings-pytorch,master,0,1,[],2017-12-04T17:19:46Z
+multimodallearning__pytorch-mask-rcnn,master,550,1960,[],2018-02-02T17:47:18Z
+mhw32__multimodal-vae-public,master,37,141,"['generative-models', 'machine-learning', 'multimodal-learning', 'variational-autoencoder']",2018-03-05T17:33:06Z
+kuanghuei__SCAN,master,106,505,"['computer-vision', 'cross-modal', 'deep-learning', 'image-captioning', 'neural-network', 'pytorch', 'visual-semantic']",2018-05-11T18:37:52Z
+facebookresearch__mmf,main,929,5381,"['captioning', 'deep-learning', 'dialog', 'hateful-memes', 'multi-tasking', 'multimodal', 'pretrained-models', 'pytorch', 'textvqa', 'vqa']",2018-06-27T04:52:40Z
+AnnikaLindh__Diverse_and_Specific_Image_Captioning,master,8,13,"['computer-vision', 'deep-learning', 'image-captioning', 'machine-learning', 'multimodal-learning', 'natural-language-generation', 'paper-implementations', 'pytorch', 'research']",2018-07-20T11:55:37Z
+zjunlp__DeepKE,main,611,2721,"['attribute-extraction', 'chinese', 'deep-learning', 'deepke', 'document-level', 'few-shot', 'information-extraction', 'instructie', 'kg', 'knowledge-graph', 'knowprompt', 'lightner', 'low-resource', 'multi-modal', 'named-entity-recognition', 'ner', 'nlp', 'prompt', 'pytorch', 'relation-extraction']",2018-08-01T01:54:52Z
+shubhamagarwal92__mmd,master,5,29,"['mmd', 'multimodal-deep-learning', 'pytorch', 'visual-dialog']",2018-08-30T13:22:17Z
+maharshi95__GANTree,master,6,13,"['gan-tree', 'gans', 'iccv2019', 'incremental-learning', 'multimodal', 'paper', 'pytorch']",2018-09-06T11:23:43Z
+jina-ai__clip-as-service,main,2039,12101,"['bert', 'bert-as-service', 'clip-as-service', 'clip-model', 'cross-modal-retrieval', 'cross-modality', 'deep-learning', 'image2vec', 'multi-modality', 'neural-search', 'onnx', 'openai', 'pytorch', 'sentence-encoding', 'sentence2vec']",2018-11-12T10:48:50Z
+ChangdeDu__multimodal-vae-public,master,0,0,[],2018-11-09T06:34:21Z
+georgepar__slp,master,7,21,"['multimodal', 'multimodal-deep-learning', 'multimodal-learning', 'natural-language-processing', 'pytorch', 'pytorch-lightning', 'wandb']",2018-11-21T21:46:19Z
+josedolz__IVD-Net,master,14,51,"['deep-learning', 'densenet', 'fcn', 'hyperdensenet', 'image-segmentation', 'intervertebral-disc-localization', 'ivd-net', 'medical-image-processing', 'medical-imaging', 'miccai', 'multi-modal-imaging', 'multi-modal-unet', 'pytorch', 'pytorch-cnn', 'segmentation', 'unet', 'unet-image-segmentation', 'unet-pytorch']",2018-12-14T01:58:47Z
+ztangent__multimodal-dmm,master,8,22,[],2019-02-15T08:40:56Z
+AnjanDutta__sem-pcyc,master,23,110,"['cross-modality', 'cycle-gan', 'generative-model', 'sketch-based-image-retrieval', 'zero-shot-learning']",2019-02-27T09:09:15Z
+ldeecke__mn-torch,master,1,17,"['deep-learning', 'multimodality', 'normalization', 'pytorch']",2019-02-24T10:48:10Z
+Demfier__pmup,master,0,3,"['capsnet', 'emotion-recognition', 'flask', 'multimodal-deep-learning', 'node-js', 'pytorch', 'sentiment-analysis', 'tensorflow']",2019-02-23T22:48:02Z
+penghu-cs__MAN,master,6,30,"['adversarial-learning', 'cross-modal-retrieval', 'deep-multimodal-learning']",2019-04-01T12:33:26Z
+idearibosome__embracenet,master,25,79,"['deep-learning', 'multimodal', 'multimodal-deep-learning', 'pytorch', 'tensorflow']",2019-04-18T01:55:20Z
+sk-aravind__3D-Bounding-Boxes-From-Monocular-Images,master,20,48,"['3d', '3dboundingbox', 'deep-manta', 'kitti', 'monocular-3d-detection', 'monocular-images', 'multimodal-deep-learning', 'object-detection', 'point-cloud', 'pytorch', 'yolov3']",2019-04-19T09:00:47Z
+ABadCandy__BaiDuBigData19-URFC,master,21,77,"['computer-vision', 'deep-learning', 'multimodal-learning', 'pytorch']",2019-05-10T09:00:16Z
+tdchaitanya__MMTOD,master,23,42,"['borrow-from-anywhere', 'faster-rcnn', 'multi-modal', 'pytorch']",2019-06-17T00:16:45Z
+penghu-cs__DSCMR,master,25,135,['cross-modal-retrieval'],2019-06-30T06:14:23Z
+ymym3412__pytorch-cross-modal-retrieval,master,0,4,[],2019-07-01T17:43:01Z
+subho406__OmniNet,master,61,508,"['artificial-intelligence', 'deep-learning', 'image-captioning', 'machine-learning', 'multimodal-learning', 'multitask-learning', 'neural-network', 'nlp', 'transformer', 'video-recognition']",2019-07-17T20:20:20Z
+penghu-cs__SDML,master,13,34,"['cross-modal-retrieval', 'deep-multimodal-learning']",2019-07-17T09:40:21Z
+WendellGul__AGAH,master,11,36,"['agah', 'cross-modal-retrieval', 'pytorch']",2019-09-03T11:50:55Z
+wangguanan__AlignGAN,master,18,116,"['computer-vision', 'cross-modality-re-identification', 'deep-learning', 'iccv2019', 'person', 'pytorch', 're-identification']",2019-10-14T09:04:59Z
+WangGodder__deep-cross-modal-hashing,master,23,93,"['cross-modal-hashing', 'data-visualization', 'dataset', 'pytorch']",2019-10-14T09:28:44Z
+gorjanradevski__cross_modal_full_transfer,master,1,3,"['bert-model', 'cross-modal-retrieval', 'efficientnet', 'efficientnet-pytorch', 'image-text-search', 'multimodal-deep-learning', 'python', 'pytorch', 'transformers-library']",2019-10-10T14:38:19Z
+kevalmorabia97__CoVA-Web-Object-Detection,master,13,71,"['attention', 'computer-vision', 'convolutional-neural-networks', 'deep-learning', 'graph-attention-networks', 'graph-convolutional-networks', 'information-extraction', 'multimodal-learning', 'object-detection', 'pytorch', 'visual-attention']",2019-10-22T06:11:54Z
+seungheondoh__audio-lyrics-emotion-recognition,master,21,85,"['audio-lyrics', 'multi-modal', 'music', 'music-emotion', 'music-emotion-recognition', 'pytorch']",2019-11-05T23:08:50Z
+irasin__Pytorch_MST,master,1,17,"['graph-cuts', 'mst', 'multimodal-style-transfer', 'pytorch', 'pytorch-mst', 'styletransfer']",2019-11-02T04:48:57Z
+wangguanan__JSIA-ReID,master,19,125,"['aaai2020', 'computer-vision', 'cross-modality-re-identification', 'deeplearning', 'pytorch', 're-identification']",2019-11-21T23:10:04Z
+josedolz__HyperDenseNet_pytorch,master,12,78,"['3d-cnn', '3d-convolutional-network', 'deep-learning', 'hyperdensenet', 'image-segmentation', 'medical-image-processing', 'medical-image-segmentation', 'multi-modal-imaging', 'multi-modal-learning', 'pytorch', 'pytorch-cnn', 'segmentation']",2019-11-20T03:53:12Z
+moabarar__nemar,nemar_deploy,25,158,"['affine-transformation', 'cnn', 'cvpr2020', 'deep-learning', 'deformable-transformation', 'image-registration', 'image-to-image-translation', 'multi-modal', 'multi-modal-learning', 'multimodal', 'multimodal-image-registration', 'pytorch', 'registartion', 'stn']",2019-12-09T11:25:19Z
+monologg__hashtag-prediction-pytorch,master,3,46,"['albert', 'hashtag', 'hashtag-prediction', 'hashtag-recommendation', 'instagram', 'multimodal', 'open-resource', 'pytorch']",2019-12-06T15:02:22Z
+98zyx__Hetero-center-loss-for-cross-modality-person-re-id,master,11,55,"['cross-modality-re-identification', 'person-reidentification', 'pytorch']",2020-01-05T07:00:59Z
+spokenlanguage__platalea,master,1,3,"['deep-neural-networks', 'flickr8k', 'multi-tasking', 'multimodal-learning', 'pytorch', 'speech-processing', 'spoken-language-understanding', 'spokencoco', 'visually-grounded-speech', 'weakly-supervised-learning']",2020-02-11T11:53:29Z
+multimodal__multimodal,master,7,70,"['datasets', 'deep-learning', 'embeddings', 'reasoning', 'vision-and-language', 'visual-features']",2020-03-13T17:23:34Z
+monologg__NER-Multimodal-pytorch,master,12,56,"['attention-network', 'coattention', 'multimodal', 'named-entity-recognition', 'ner', 'pytorch', 'tweets']",2020-03-12T00:41:21Z
+lozingaro__multimodal-side-tuning,master,0,8,"['deep-learning', 'document-classification', 'pytorch']",2020-03-07T09:13:45Z
+ForeverFancy__MANN,master,1,3,"['multimodal', 'neural-network']",2020-03-16T13:50:37Z
+zch42__BiFusion,master,9,31,"['bioinformatics', 'deep-learning', 'drug-discovery', 'drug-repurposing', 'graph-neural-networks', 'link-prediction', 'multimodal-deep-learning', 'pytorch']",2020-03-27T23:54:37Z
+jhnlee__multimodal-transformer,master,2,8,[],2020-03-31T11:10:38Z
+arpytanshu__HUSE-PyTorch,master,0,2,"['deep-learning', 'multimodal-learning', 'multimodal-representation', 'pytorch-implementation', 'transfer-learning', 'universal-semantic-embedding']",2020-04-06T08:53:52Z
+v-iashin__MDVC,master,19,133,"['activitynet-captions', 'audio', 'cvpr-workshop', 'dense-video-captioning', 'i3d', 'multi-modal', 'pytorch', 'speech', 'transformer', 'visual']",2020-04-14T13:37:39Z
+gchochla__Deep-Representations-of-Visual-Descriptions,master,1,16,"['crnn', 'fine-grained-recognition', 'multimodal-deep-learning', 'python3', 'pytorch', 'zero-shot-retrieval']",2020-04-14T08:33:12Z
+mrFahrenhiet__Explainable_Image_Caption_bot,master,1,5,"['attention', 'attention-mechanism', 'computer-vision', 'decoder', 'image-caption-bot', 'image-captioning', 'lstm', 'multi-modal', 'nlp', 'pytorch', 'resnet-101', 'streamlit']",2020-04-22T11:53:58Z
+wenliangdai__Modality-Transferable-MER,master,5,58,"['cmu-mosei', 'deep-learning', 'emotion-recognition', 'few-shot', 'iemocap', 'multimodal', 'nlp', 'pytorch', 'zero-shot']",2020-05-10T07:23:53Z
+vishaal27__Multimodal-Video-Emotion-Recognition-Pytorch,master,1,14,"['affective-computing', 'emotion-recognition', 'multimodal-deep-learning', 'pytorch']",2020-05-12T10:43:03Z
+ovshake__cobra,master,3,14,"['contrastive-learning', 'cross-modal', 'machine-learning', 'pytorch', 'representation-learning']",2020-05-10T19:02:28Z
+haamoon__mmtm,master,20,100,"['action-recognition', 'cnn-fusion', 'gesture-recognition', 'multimodal-deep-learning', 'multimodal-learning', 'pytorch', 'speech-enhancement']",2020-06-06T05:27:24Z
+verlab__Learning2Dance_CAG_2020,master,10,84,"['computer-and-graphics', 'computer-vision', 'gcn', 'graph-adversarial-learning', 'graph-convolutional-networks', 'human-motion', 'human-motion-analysis', 'motion-analysis', 'motion-animation', 'motion-synthesis', 'multimodal-learning', 'sound-processing']",2020-06-10T22:02:48Z
+sarthak268__c3vqg-official,master,6,15,"['category-consistency', 'center-loss', 'cycle-consistency', 'information-maximization', 'latent-hyper-prior', 'latent-space', 'multimodal-deep-learning', 'vision-and-language', 'visual-question-generation']",2020-05-30T00:08:04Z
+koninik__multimodal_machine_translation,master,0,2,"['image-features', 'multimodal-deep-learning', 'neural-machine-translation', 'transformers']",2020-06-08T15:12:47Z
+ashtraysoap__pytorch-multimodal,master,0,0,[],2020-05-28T08:45:14Z
+MILVLG__mt-captioning,master,8,24,"['image-captioning', 'multimodal-transformer', 'pytorch']",2020-06-13T14:42:39Z
+open-mmlab__mmpretrain,main,989,3012,"['beit', 'clip', 'constrastive-learning', 'convnext', 'deep-learning', 'image-classification', 'mae', 'masked-image-modeling', 'mobilenet', 'moco', 'multimodal', 'pretrained-models', 'pytorch', 'resnet', 'self-supervised-learning', 'swin-transformer', 'vision-transformer']",2020-07-09T16:25:04Z
+pykale__pykale,main,61,420,"['computer-vision', 'data-science', 'deep-learning', 'domain-adaptation', 'graph-analysis', 'knowledge-aware-learning', 'machine-learning', 'medical-image-analysis', 'meta-learning', 'multimodal', 'multimodal-learning', 'python', 'pytorch', 'transfer-learning']",2020-06-30T08:06:10Z
+IsaacRodgz__GMU-Baseline,master,0,6,"['deep-learning', 'deep-nlp', 'machine-learning', 'multimodal-deep-learning', 'nlp', 'pytorch']",2020-07-01T22:07:54Z
+LivXue__ALGCN,master,3,10,"['cross-modal-retrieval', 'graph-convolutional-networks', 'pytorch']",2020-07-27T12:53:40Z
+xiaoxiaoheimei__SeqDialN,master,1,5,"['dense-coattn-network', 'multimodal-deep-learning', 'pytorch', 'transformer', 'visual-dialog']",2020-07-19T04:52:20Z
+itsShnik__allForOne,master,0,2,"['deep-learning', 'multi-modal-learning', 'multi-task-learning', 'sentiment-classification', 'vision-and-language', 'visual-question-answering']",2020-07-17T10:00:35Z
+canary-for-cognition__multimodal-dl-framework,master,2,7,"['audio', 'binary-classification', 'eye-tracking', 'machine-learning', 'multimodal-deep-learning', 'neural-networks', 'pytorch', 'pytorch-framework', 'text']",2020-07-29T09:52:52Z
+BCV-Uniandes__LUCAS,master,0,6,"['ct-scans', 'lung-cancer-detection', 'miccai2020', 'multimodal-biomarkers', 'pytorch']",2020-07-30T20:49:08Z
+JianJuly__multimodal_brain_synthesis_pytorch,master,0,0,[],2020-07-29T05:55:32Z
+anita-hu__MSAF,master,9,63,"['action-recognition', 'cmu-mosei', 'multimodal-deep-learning', 'multimodal-emotion-recognition', 'multimodal-learning', 'multimodal-sentiment-analysis', 'ntu-rgbd', 'pytorch', 'ravdess']",2020-09-04T14:32:57Z
+liveseongho__DramaQA,main,3,9,"['multi-modal-learning', 'pytorch', 'video-question-answering', 'vision-language']",2020-10-06T00:52:06Z
+MedMNIST__MedMNIST,main,150,920,"['2d', '3d', 'automl', 'benchmark', 'classification', 'dataset', 'decathlon', 'deep-learning', 'federated-learning', 'few-shot-learning', 'machine-learning', 'medical', 'medical-image-analysis', 'medical-image-computing', 'medical-imaging', 'medmnist', 'mnist', 'multi-modal', 'pytorch']",2020-10-25T03:20:37Z
+kywen1119__DSRAN,main,12,67,"['computer-vision', 'cross-modal', 'image-text-matching', 'pytorch', 'tcsvt']",2020-10-22T07:05:46Z
+multimodallearning__flownet_pytorch,main,0,2,[],2020-10-24T11:04:59Z
+AnnikaLindh__Controllable_Region_Pointer_Advancement,master,1,2,"['coling-2020', 'computer-vision', 'controllable-image-captioning', 'deep-learning', 'machine-learning', 'multimodal-learning', 'natural-language-generation', 'neural-networks', 'paper-implementations', 'python', 'pytorch', 'research']",2020-10-31T15:19:55Z
+multimodal-machine-learning__iPerceive,master,0,1,[],2020-11-12T14:53:20Z
+shineyruan__multimodal-GAN,main,1,0,[],2020-12-11T03:49:39Z
+lucidrains__DALLE-pytorch,main,631,5442,"['artificial-intelligence', 'attention-mechanism', 'deep-learning', 'multi-modal', 'text-to-image', 'transformers']",2021-01-05T20:35:16Z
+boschresearch__OASIS,master,56,311,"['bcai', 'computer-vision', 'deep-learning', 'gan', 'generative-adversarial-networks', 'iclr2021', 'image-generation', 'image-to-image-translation', 'label-to-image-translation', 'machine-learning', 'multi-modal', 'oasis', 'pytorch', 'semantic-image-synthesis']",2021-01-13T12:56:15Z
+woodfrog__vse_infty,master,19,142,"['cross-modal-retrieval', 'image-text-matching', 'pytorch', 'vision-language', 'visual-semantic', 'vse']",2021-01-10T06:04:22Z
+leaderj1001__CLIP,main,8,68,"['deep-learning', 'image', 'language-model', 'multimodal', 'pytorch', 'transformer', 'vision-transformer']",2021-01-11T00:38:08Z
+SAIC-MONTREAL__multimodal-dynamics,master,3,12,"['deep-learning', 'multimodal-deep-learning', 'pybullet', 'pytorch', 'vae']",2021-01-29T20:29:57Z
+bhigy__zr-2021vg_baseline,main,2,7,"['challenge', 'deep-neural-networks', 'librispeech', 'multimodal-learning', 'pytorch', 'representation-learning', 'speech-processing', 'spokencoco', 'visually-grounded-speech', 'weakly-supervised-learning']",2021-02-03T10:25:56Z
+codewithzichao__Multimodal-Transformers,main,0,4,"['eacl', 'meme', 'multimodal', 'pytorch', 'transformer']",2021-01-22T09:45:38Z
+talipucar__DomainTranslation,main,0,2,"['data-alignment', 'multi-domain', 'multi-domain-adaptation', 'multi-modal', 'multi-modal-learning', 'multi-view', 'multi-view-learning', 'shared-embedding', 'single-cell', 'single-cell-omics', 'single-cell-rna-seq']",2021-01-30T21:39:55Z
+mako443__Text2Pos-CVPR2022,master,6,34,"['computer-vision', 'cross-modal', 'cross-modal-learning', 'cross-modal-retrieval', 'cvpr', 'cvpr2022', 'deep-learning', 'language-processing', 'localization', 'nlp', 'pytorch']",2021-02-09T15:34:12Z
+verlab__StraightToThePoint_CVPR_2020,main,1,8,"['agent', 'computer-vision', 'cross-modal-learning', 'cvpr', 'fast-forward', 'hyperlapse', 'multimodal-deep-learning', 'multimodal-learning', 'reinforcement-learning', 'text-and-image', 'video-analysis', 'video-fast-forward', 'video-processing', 'video-summarization', 'vision-and-language']",2021-02-11T22:11:32Z
+kdhht2334__Hidden_Emotion_Detection_using_MM_Signals,main,1,5,"['deep-learning', 'eeg-analysis', 'hidden-emotions', 'human-computer-interaction', 'multi-modal-fusion', 'multi-modal-learning', 'pytorch', 'valence-arousal']",2021-02-21T12:12:01Z
+likyoo__Multimodal-Remote-Sensing-Toolkit,main,12,66,"['multi-modal-learning', 'python', 'pytorch', 'remote-sensing']",2021-02-28T07:29:38Z
+VietHoang1512__CVPR-track-5,main,1,7,"['computer-vision', 'cvpr2021', 'multimodal', 'natural-language-processing', 'pytorch']",2021-03-08T02:29:42Z
+talipucar__DomainAdaptation,main,1,10,"['domain-adaptation', 'domain-alignment', 'domain-translation', 'multimodal-deep-learning', 'multimodal-learning', 'pytorch']",2021-03-14T22:30:56Z
+yanbeic__CCL,main,11,83,"['audio-teacher-models', 'audio-visual-learning', 'compositional-contrastive-learning', 'contrastive-learning', 'cvpr2021', 'distillation', 'multi-modal-distillation', 'pytorch', 'video-recognition']",2021-03-29T18:28:14Z
+penghu-cs__MRL,main,10,47,"['cross-modal-retrieval', 'multimodal-deep-learning', 'noisy-labels']",2021-04-06T15:46:35Z
+Guanzhou-Ke__DMMC-zoo,main,3,5,"['deep-multi-modal-clustering', 'pytorch']",2021-04-05T08:35:07Z
+choyingw__Cross-Modal-Perceptionist,main,13,115,"['3d', '3d-models', '3dmm', 'biometrics', 'cognitive-science', 'computer-vision', 'cross-modal-learning', 'cvpr', 'cvpr2022', 'deep-learning', 'machine-learning', 'pytorch', 'speech', 'speech-synthesis', 'speech-to-face']",2021-04-17T04:45:22Z
+leofanzeres__s2i,main,0,4,"['computational-imagination', 'computer-vision', 'cross-modal-hashing', 'deep-learning', 'gans', 'people-centered-ai', 'pytorch', 'sound-to-image', 'unsupervised-learning']",2021-04-21T03:56:38Z
+Toytiny__RadarNet-pytorch,main,2,15,"['3d-detection', '3d-vision', 'automotive-radar', 'lidar-point-cloud', 'multi-modal', 'object-detection', 'point-cloud']",2021-04-29T12:43:10Z
+frank-chris__Image-Text-Retrieval-Web-App,main,2,1,"['cross-modal-retrieval', 'deepfashion', 'flask', 'pytorch', 'retrieval']",2021-05-07T19:58:33Z
+zhangxuying1004__RSTNet,master,27,113,"['cvpr2021', 'image-captioning', 'multimodal', 'python', 'pytorch', 'transformer']",2021-05-24T07:42:49Z
+BiomedSciAI__fuse-med-ml,master,35,120,"['ai', 'cmmd', 'collaboration', 'ct', 'deep-learning', 'fuse', 'fuse-med-ml', 'fusemedml', 'hacktoberfest', 'healthcare', 'isic', 'knight-challenge', 'machine-learning', 'medical', 'medical-imaging', 'multimodality', 'python', 'pytorch', 'stoic', 'vision']",2021-06-23T12:10:42Z
+naver-ai__pcme,main,17,113,"['cross-modal-retrieval', 'cvpr2021', 'probabilistic-embeddings', 'probabilistic-machine-learning']",2021-06-15T05:22:12Z
+sisinflab__Formal-MultiMod-Rec,main,1,7,"['graph-neural-networks', 'multimedia-recommendation', 'multimedia-systems', 'multimodal-deep-learning', 'multimodal-retrieval', 'pytorch', 'recommender-system', 'reproducibility']",2021-06-21T14:11:50Z
+efthymisgeo__multimodal-masking,master,0,7,"['cmu-mosei', 'interspeech2021', 'masking', 'multimodal-deep-learning', 'paper', 'pytorch', 'regularization', 'rnn', 'sentiment-analysis']",2021-06-14T10:22:09Z
+GanHY97__Classification-by-Fusing-Multimodal-Data,master,3,6,"['fasttext', 'fusion', 'multimodal', 'python', 'pytorch', 'vgg16']",2021-07-02T08:23:00Z
+rentainhe__TRAR-VQA,main,17,58,"['attention', 'clevr', 'dynamic-network', 'iccv2021', 'local-and-global', 'multi-modal', 'multi-modal-learning', 'multi-modality', 'multi-scale-features', 'official', 'pytorch', 'transformer', 'vision-and-language', 'visual-question-answering', 'visualization', 'vqav2']",2021-07-23T02:34:46Z
+nc-ai__MultimodalSum,master,4,22,"['abstractive-summarization', 'abstractive-text-summarization', 'acl2021', 'amazon', 'multi-modal', 'multimodal', 'opinion-summarization', 'pytorch', 'reviews', 'self-supervised', 'self-supervised-learning', 'summarization', 'yelp']",2021-08-07T01:15:32Z
+amazon-science__gluonmm,main,2,49,"['computer-vision', 'iccv-2021', 'multimodality', 'pytorch', 'transformer', 'video']",2021-08-23T22:08:05Z
+chaineypung__MMNet-for-Alzheimer-Classification-using-sMRI,main,1,22,"['alzheimers-disease', 'deep-learning-algorithms', 'disease-classification', 'image-classification', 'multi-modal', 'pytorch', 'smri']",2021-09-03T14:36:02Z
+soloist97__region-hierarchical-pytorch,main,1,9,"['image-captioning', 'multimodal-deep-learning', 'pytorch']",2021-09-16T15:10:51Z
+JoungheeKim__multimodal_emotion_recognition,main,0,6,[],2021-09-07T04:44:03Z
+LivXue__GNN4CMR,main,4,32,"['adversarial-networks', 'contrastive-learning', 'cross-modal-retrieval', 'graph-neural-networks', 'pytorch']",2021-09-22T03:40:56Z
+Lanping-Tech__Multi-modal-Valuation-Forecast-System,main,0,14,"['bert', 'multimodal', 'pytorch', 'stock-price-prediction', 'tcn']",2021-09-18T09:34:07Z
+fuyahuii__ConSK-GCN,main,2,8,"['emotion-recognition-in-conversation', 'gcn', 'knowledge-graph', 'multimodality']",2021-09-24T13:54:45Z
+JOBR0__PerceiverIO_Pytorch,master,0,7,"['deep-learning', 'deepmind', 'image-classification', 'language-model', 'multimodal', 'optical-flow', 'perceiverio', 'transformer']",2021-09-22T19:39:26Z
+bupt-mmai__S2TD,main,0,5,"['image-captioning', 'multimodal-deep-learning', 'paragraph-generation', 'pytorch']",2021-10-17T03:43:04Z
+IDEA-CCNL__Fengshenbang-LM,main,349,3777,"['aigc', 'chinese-nlp', 'distributed-training', 'multimodal', 'pretrained-models', 'pytorch', 'transformers']",2021-10-28T09:48:27Z
+ekazakos__MTCN,main,4,18,"['action-recognition', 'multimodal', 'temporal-context', 'transfomers']",2021-10-21T06:44:35Z
+mmaaz60__mvits_for_class_agnostic_od,main,23,290,"['class-agnostic-detection', 'multimodal-learning', 'object-detection', 'open-world-detection', 'psuedo-labels', 'pytorch']",2021-11-16T09:15:36Z
+alanqrwang__keymorph,main,9,43,"['affine', 'brain', 'deep-learning', 'interpretability', 'keypoints', 'multimodal', 'neural-network', 'pytorch', 'registration', 'robust']",2021-11-29T21:52:58Z
+mesnico__ALADIN,master,6,17,"['computer-vision', 'cross-modal', 'cross-modal-retrieval', 'deep-learning', 'language-and-vision', 'natural-language-processing', 'pytorch']",2021-12-06T09:55:39Z
+docarray__docarray,main,211,2665,"['cross-modal', 'data-structures', 'dataclass', 'deep-learning', 'docarray', 'elasticsearch', 'fastapi', 'machine-learning', 'multi-modal', 'multimodal', 'nearest-neighbor-search', 'nested-data', 'neural-search', 'protobuf', 'pydantic', 'pytorch', 'qdrant', 'semantic-search', 'weaviate']",2021-12-14T15:26:24Z
+zjunlp__HVPNeT,main,10,88,"['bert', 'dataset', 'entity-extraction', 'hvpnet', 'information-extraction', 'kg', 'multimodal', 'multimodal-knowledge-graph', 'multimodal-learning', 'naacl', 'ner', 'prefix', 'pytorch', 're', 'relation-extraction']",2021-12-18T04:19:56Z
+njustkmg__OMML,Pytorch,97,546,"['classification', 'crossmodal-retrieval', 'imagecaptioning', 'multimodal', 'multimodal-learning', 'paddlepaddle', 'python', 'pytorch']",2022-01-05T12:46:56Z
+3dlg-hcvc__tricolo,main,2,16,"['3d', 'computer-vision', 'multimodal-learning', 'natual-language-processing', 'pytorch', 'pytorch-lightning']",2022-01-07T20:43:39Z
+uoo723__PMGT,main,4,15,"['deep-learning', 'graph-transformer', 'machine-learning', 'multi-modal-learning', 'python', 'pytorch', 'recommendation']",2022-01-03T05:34:00Z
+penghu-cs__DCHN,main,0,6,"['cross-modal-hashing', 'cross-modal-retrieval', 'cross-view-hashing', 'cross-view-retrieval']",2021-12-24T08:51:25Z
+penghu-cs__ISVN,main,0,5,"['cross-modal-retrieval', 'cross-view-recognition', 'deep-learning', 'increasing-views', 'semisupervised-learning']",2021-12-28T17:57:41Z
+aehrc__cvt2distilgpt2,main,3,46,"['chest-xray-imaging', 'distilgpt2', 'gpt-2', 'huggingface-transformers', 'image-captioning', 'medical-image-analysis', 'mimic-cxr', 'multimodal', 'multimodal-deep-learning', 'pytorch', 'pytorch-lightning', 'vision-transformer']",2022-01-12T05:18:39Z
+facebookresearch__multimodal,main,110,1136,[],2022-01-27T20:01:00Z
+affjljoo3581__Job-Recommend-Competition,main,4,40,"['attention-mechanism', 'attention-model', 'competition', 'dacon', 'deep-learning', 'multimodal-deep-learning', 'multimodal-learning', 'natural-language-processing', 'nlp', 'pytorch', 'pytorch-lightning', 'tabnet', 'tabular-data', 'wandb']",2022-02-15T09:01:28Z
+liuzwin98__DSCMT,main,1,5,"['action-recognition', 'multimodal-deep-learning', 'pytorch', 'transformer-models']",2022-02-22T07:56:46Z
+sisinflab__Edge-Graph-Collaborative-Filtering,master,1,2,"['cikm2022', 'collaborative-filtering', 'graph-neural-networks', 'multimodal', 'pytorch', 'recommendation-system', 'reviews']",2022-02-17T15:33:06Z
+jpWang__LiLT,main,37,305,"['document-ai', 'document-analysis', 'document-understanding', 'information-extraction', 'multilingual-models', 'multimodal-pre-trained-model', 'nlp']",2022-03-01T03:34:40Z
+HUANGLIZI__LViT,main,19,229,"['medical-image-analysis', 'multimodal-learning', 'pytorch', 'segmentation', 'vision-language']",2022-03-10T08:49:09Z
+XLearning-SCU__2022-CVPR-DART,main,7,27,"['cross-modality-re-identification', 'learning-with-noisy-labels', 'person-reid']",2022-03-02T01:50:30Z
+LeapLabTHU__Pseudo-Q,main,9,136,"['computer-vision', 'cvpr2022', 'deep-learning', 'multimodal-deep-learning', 'pytorch', 'vision-and-language', 'visual-grounding']",2022-03-14T07:15:58Z
+samuelyu2002__PACS,main,1,10,"['audiovisual', 'commonsense-reasoning', 'dataset', 'multimodal', 'pytorch', 'question-answering']",2022-03-18T22:42:13Z
+zjunlp__MKGformer,main,29,146,"['dataset', 'former', 'kg', 'kgc', 'knowledge-graph', 'link-prediction', 'mkg', 'mkgformer', 'mnre', 'multimodal', 'ner', 'pytorch', 'relation-extraction', 'sigir2022', 'transformer']",2022-04-06T07:51:05Z
+Sreyan88__MMER,main,12,44,"['emotion-recognition', 'iemocap', 'multimodal-deep-learning', 'pytorch', 'speech']",2022-03-29T05:26:31Z
+sunoh-kim__PLRN,main,0,6,"['attention-mechanism', 'multimodal-learning', 'video-grounding']",2022-04-10T13:02:20Z
+Boreas-pxl__M2HSE,main,0,5,"['cross-modal-retrieval', 'deep-learning', 'multi-modal-learning', 'pytorch']",2022-04-02T12:10:29Z
+drprojects__DeepViewAgg,release,22,211,"['attention', 'cvpr', 'cvpr2022', 'deep-learning', 'image', 'kitti-360', 'multi-view', 'multimodal', 'multimodal-deep-learning', 'point-cloud', 'point-cloud-segmentation', 'pytorch', 'pytorch-geometric', 's3dis', 'semantic-segmentation', 'torch-points3d']",2022-04-15T23:09:06Z
+CAOANJIA__image-caption,master,0,6,"['attention-mechanism', 'deep-learning', 'encoder-decoder', 'image-caption', 'multimodal', 'pytorch']",2022-04-19T12:16:45Z
+TIBHannover__MM_Claims,main,2,4,"['claim-detection', 'dataset', 'multimodal', 'multimodal-deep-learning', 'pytorch', 'social-media', 'twitter']",2022-04-28T08:43:56Z
+lucidrains__CoCa-pytorch,main,86,937,"['artificial-intelligence', 'attention-mechanism', 'contrastive-learning', 'deep-learning', 'image-to-text', 'multimodal', 'transformers']",2022-05-05T19:41:01Z
+GT-RIPL__Xmodal-Ctx,main,10,59,"['clip', 'cross-modal', 'image-captioning', 'vision-and-language']",2022-05-09T15:09:57Z
+howard-hou__BagFormer,main,33,116,"['cross-modal-retrieval', 'image-text-retrieval', 'vision-language']",2022-05-24T03:40:30Z
+penghu-cs__UCCH,main,9,30,"['contrastive-learning', 'cross-modal-hashing', 'cross-modal-retrieval', 'unsupervised-learning']",2022-05-20T00:14:50Z
+ZYK100__MMN,main,4,25,"['cross-modality', 're-identification', 'vireid', 'visible-infrared']",2022-05-21T03:51:18Z
+BoHuangLab__Protein-Localization-Transformer,main,3,25,"['artificial-intelligence', 'attention-mechanism', 'deep-learning', 'language-modeling', 'multi-modal', 'protein-sequences', 'pytorch', 'text-to-image', 'transformers']",2022-05-23T22:53:25Z
+nhsx__txt-ray-align,main,3,3,"['contrastive-learning', 'generation', 'multi-modal', 'nhs', 'nlp', 'pytorch', 'retrieval']",2022-05-27T15:00:57Z
+DerrickWang005__CRIS.pytorch,master,35,212,"['contrastive-learning', 'multi-modality', 'referring-image-segmentation']",2022-06-01T13:38:06Z
+dvlab-research__UVTR,main,13,211,"['3d-detection', 'multi-modality', 'pytorch']",2022-06-01T13:06:28Z
+yisun98__SOLC,main,18,122,"['cross-modal', 'deeplabv3', 'land-use-classification', 'multi-modal', 'multi-source', 'oa-kappa', 'pytorch', 'remote-sensing', 'sar-optical', 'segmentation']",2022-06-01T08:02:27Z
+marcomoldovan__multimodal-self-distillation,main,2,5,"['multimodal-alignment', 'multimodal-deep-learning', 'multimodal-fusion', 'multimodal-retrieval', 'pytorch', 'self-distillation', 'self-supervised-learning']",2022-06-07T16:02:55Z
+ChenDelong1999__ITRA,main,1,11,"['computer-vision', 'deep-learning', 'multimodal-learning', 'pytorch', 'vision-language-pretraining']",2022-06-23T09:35:18Z
+OFA-Sys__Chinese-CLIP,master,356,3166,"['chinese', 'clip', 'computer-vision', 'contrastive-loss', 'coreml-models', 'deep-learning', 'image-text-retrieval', 'multi-modal', 'multi-modal-learning', 'nlp', 'pretrained-models', 'pytorch', 'transformers', 'vision-and-language-pre-training', 'vision-language']",2022-07-08T03:12:21Z
+YeexiaoZheng__Multimodal-Sentiment-Analysis,main,17,126,"['attention', 'multimodal', 'multimodal-sentiment-analysis', 'pytorch', 'torchvision', 'transformer']",2022-07-14T15:08:09Z
+enoche__BM3,master,6,42,"['boostrapping', 'multi-modal', 'recommender-system', 'self-supervised-learning']",2022-07-08T01:53:25Z
+Droliven__diverse_sampling,main,1,13,"['accuracy', 'acmmm2022', 'cvae', 'deep-learning', 'diverse', 'diversity', 'gaussian-distribution', 'gcn', 'gumbel-softmax', 'hinge-loss', 'human-motion-prediction', 'likelihood', 'manifold', 'multimodality', 'pytorch', 'sampling', 'stochastic', 'variational-autoencoder', 'variational-inference']",2022-07-03T09:41:02Z
+MiloQ__MELD-Sentiment-Analysis,main,2,10,"['deep-learning', 'multimodal', 'pytorch', 'sentiment-analysis']",2022-07-11T07:18:03Z
+arunism__Neural-Machine-Translation,master,0,1,"['deep-learning', 'english', 'machine-translation', 'multimodal', 'nepali', 'nlp', 'pytorch']",2022-07-09T14:58:41Z
+lyhkevin__MT-Net,main,1,17,"['deep-learning', 'masked-autoencoder', 'mri', 'multi-modal', 'pytorch', 'synthesis']",2022-07-22T05:47:57Z
+chenzpstar__Multi-Modal-Image-Fusion,main,3,16,"['image-fusion', 'infrared', 'multi-modal-fusion', 'polarization', 'pytorch', 'unsupervised-learning']",2022-08-10T15:45:16Z
+bmezaris__TextToVideoRetrieval-TtimesV,main,0,4,"['cross-modal-video-retrieval', 'deep-learning', 'dual-softmax', 'feature-encoders', 'multiple-space-learning', 'text-based-video-search']",2022-08-17T13:28:53Z
+CharlieLong-S__pytorch-multimodal_sarcasm_detection,main,0,0,[],2022-08-14T19:08:42Z
+thatAverageGuy__EarlyFusion-on-EasyVQA,main,0,1,"['early-fusion', 'multimodal-deep-learning', 'pytorch', 'streamlit', 'transformers', 'visual-question-answering', 'vqa-dataset']",2022-08-22T15:10:46Z
+chuhaojin__Text2Poster-ICASSP-22,master,14,185,"['aigc', 'artificial-neural-networks', 'banner-advertisements', 'banner-generator', 'deep-learning', 'encoder-decoder-architecture', 'geneative-creation', 'image-processing', 'image-retrieval', 'image-text-retrieval', 'layout-design', 'multimodal-generation', 'object-detection', 'poster-generation', 'pytorch']",2022-09-18T05:02:01Z
+ABaldrati__CLIP4Cir,master,16,124,"['cirr', 'clip', 'clip4cir', 'deep-learning', 'fashioniq', 'image-retrieval', 'multimodal', 'pytorch']",2022-09-15T10:42:39Z
+YeonwooSung__LIMoE-pytorch,main,1,42,"['contrastive-learning', 'image-and-text', 'limoe', 'multimodal', 'multimodal-deep-learning', 'multimodality']",2022-09-08T12:54:08Z
+Guo622__WBDC_2022,main,0,8,"['multi-modal', 'pytorch', 'video-classification']",2022-09-07T06:25:19Z
+yuanze-lin__REVIVE,main,1,33,"['computer-vision', 'deep-learning', 'gpt-3', 'knowledge-based', 'multimodal-deep-learning', 'neurips2022', 'ok-vqa', 'pytorch', 'question-answering', 'vision-and-languge', 'vqa']",2022-09-21T06:53:02Z
+ChenHongruixuan__SRGCAE,master,0,31,"['autoencoder', 'change-detection', 'graph-convolutional-networks', 'multimodal-data', 'remote-sensing', 'structural-relationship', 'unsupervised-learning']",2022-10-02T09:59:38Z
+michelecafagna26__VinVL,main,0,5,"['image-captioning', 'image-to-text', 'multimodal', 'python', 'pytorch', 'transformer', 'transformers']",2022-10-04T14:08:12Z
+arunism__Text-Classification,master,0,2,"['multimodal', 'multimodal-learning', 'nlp', 'pytorch', 'text-classification']",2022-09-25T14:01:08Z
+mlfoundations__open_flamingo,main,242,3319,"['computer-vision', 'deep-learning', 'flamingo', 'in-context-learning', 'language-model', 'multimodal-learning', 'pytorch']",2022-10-20T00:32:35Z
+mertyg__vision-language-models-are-bows,main,11,191,"['blip', 'clip', 'compositionality', 'multimodal', 'pytorch', 'vision-language']",2022-10-07T17:56:24Z
+v-iashin__SparseSync,main,8,40,"['audio-visual', 'bmvc', 'lrs', 'multi-modal', 'pytorch', 'sparse', 'synchronization', 'transformer', 'vggsound']",2022-10-09T14:22:36Z
+affjljoo3581__Inverse-DALL-E-for-Optical-Character-Recognition,main,6,37,"['dalle', 'gpt2', 'huggingface', 'image-captioning', 'image-generation', 'image-to-text', 'multimodal', 'nlp', 'ocr', 'optical-character-recognition', 'pytorch', 'text-to-image', 'transformers', 'vqvae']",2022-10-14T06:47:51Z
+Chushihyun__MT-DETR,main,1,24,"['adverse-weather-condition', 'computer-vision', 'multimodal-object-detection', 'wacv2023']",2022-10-15T17:20:13Z
+idiap__multimodal_gaze_target_prediction,main,2,17,"['attention', 'cvpr', 'cvpr2022', 'gaze', 'gaze-estimation', 'pytorch']",2022-10-18T08:36:36Z
+hmartelb__avlit,main,1,16,"['audio-visual', 'iterative', 'lightweight', 'multi-modal', 'pytorch', 'pytorch-lightning', 'speech-enhancement', 'speech-separation']",2022-10-19T12:48:19Z
+meetdavidwan__faithful-multimodal-summ,main,0,9,[],2022-10-21T17:38:02Z
+claws-lab__multimodal-robustness,main,1,9,"['multimodal-deep-learning', 'natural-language-processing', 'nlp', 'pytorch']",2022-10-21T17:23:47Z
+Big-Brother-Pikachu__Where2edit,master,0,4,"['attention', 'image-manipulation', 'multimodal', 'text-to-image']",2022-11-03T12:06:17Z
+Lee-Gihun__MEDIAR,main,17,90,"['biomedical', 'cell-biology', 'cell-segmentation', 'instance-segmentation', 'miscroscopy', 'monai', 'multi-modality', 'multi-resolution', 'neurips-2022', 'pytorch', 'pytorch-implementation', 'pytorch-segmentation', 'vision-transformer']",2022-11-16T02:01:24Z
+skgyu__CMOS-GAN,main,1,5,"['cmos-gan', 'computer-vision', 'cross-modality-face-image-synthesis', 'deep-learning', 'gan', 'generative-adversarial-network', 'image-generation', 'image-manipulation', 'pytorch', 'semi-supervised-generative-adversarial-model', 'semi-supervised-image-generation']",2022-11-22T04:41:11Z
+AndreiMoraru123__ContextCollector,main,0,2,"['attention', 'attention-mechanism', 'coco-api', 'computer-vision', 'cuda', 'cudnn', 'image-captioning', 'lstm', 'mscoco-dataset', 'multimodal-deep-learning', 'natural-language-processing', 'object-detection', 'opencv', 'pytorch', 'resnet', 'show-and-tell', 'show-attend-and-tell', 'video-inference', 'vision-language', 'yolo']",2022-11-21T08:22:09Z
+modelscope__AdaSeq,master,30,333,"['bert', 'chinese-nlp', 'crf', 'entity-typing', 'information-extraction', 'multi-modal-ner', 'named-entity-recognition', 'natural-language-processing', 'natural-language-understanding', 'ner', 'nlp', 'pytorch', 'relation-extraction', 'sequence-labeling', 'token-classification', 'word-segmentation']",2022-12-01T10:00:28Z
+clin1223__VLDet,main,9,162,"['iclr2023', 'multi-modal', 'object-detection', 'open-vocabulary', 'pytorch', 'vision-and-language']",2022-11-24T10:35:06Z
+OFA-Sys__OFASys,main,10,139,"['audio', 'computer-vision', 'deep-learning', 'motion', 'multimodal-learning', 'multitask-learning', 'nlp', 'pretrained-models', 'pytorch', 'transformers', 'vision-and-language']",2022-12-08T05:55:45Z
+astra-vision__PODA,master,9,94,"['clip', 'computer-vision', 'deep-learning', 'domain-adaptation', 'feature-augmentation', 'multi-modal', 'pytorch', 'scene-understanding', 'semantic-segmentation', 'vision-language', 'zero-shot']",2022-11-25T16:02:24Z
+ch3cook-fdu__Vote2Cap-DETR,master,4,38,"['3d-detection', '3d-models', 'caption-generation', 'deep-learning', 'dense-captioning', 'multimodal-deep-learning', 'pytorch', 'vision-and-language']",2022-11-28T08:25:21Z
+zjukg__DUET,main,8,36,"['cross-modal', 'grounding', 'knowledge-transfer', 'pretrained-language-model', 'pytorch', 'semantic', 'transformer', 'visual-grounding', 'zero-shot-learning']",2022-11-27T12:01:02Z
+xzluo97__mutual-information-registration,main,1,13,"['information-theory', 'lecture-notes', 'medical-image-registration', 'multimodal-image-registration', 'mutual-information', 'python', 'pytorch']",2022-12-02T05:36:16Z
+LamineTourelab__MOGONET,main,1,11,"['deep-learning', 'graph-convolutional-networks', 'machine-learning', 'mogonet', 'multi-omics', 'multi-omics-integration', 'multimodal-deep-learning', 'pytorch']",2022-12-08T15:38:45Z
+duyali2000__MQMC,main,1,8,"['contrastive-learning', 'information-retrieval', 'microvideo-product', 'multimodal-deep-learning']",2022-12-07T12:01:54Z
+MILVLG__prophet,main,24,256,"['a-okvqa', 'gpt-3', 'multimodal-deep-learning', 'okvqa', 'prompt-engineering', 'pytorch', 'visual-question-answering']",2023-01-09T14:00:25Z
+lucidrains__zorro-pytorch,main,6,91,"['artificial-intelligence', 'attention-mechanisms', 'deep-learning', 'masking', 'multimodal', 'transformers']",2023-01-26T16:27:01Z
+RL4M__MRM-pytorch,main,4,63,"['chest-xray-images', 'multi-modal-learning', 'pre-trained-model', 'representation-learning', 'self-supervised-learning']",2023-01-18T05:26:08Z
+wjun0830__QD-DETR,main,9,139,"['computer-vision', 'deep-learning', 'detection-transformer', 'moment-retrieval', 'multi-modal', 'text-video-retrieval', 'video-highlight-detection', 'video-retrieval', 'video-summarization']",2023-01-30T10:54:53Z
+etri-crossmodal__llm-downstream-s2s,main,0,9,[],2023-01-30T22:37:11Z
+unum-cloud__uform,main,44,774,"['bert', 'clip', 'clustering', 'contrastive-learning', 'cross-attention', 'huggingface-transformers', 'image-search', 'language-vision', 'llava', 'multi-lingual', 'multimodal', 'neural-network', 'openai', 'openclip', 'pretrained-models', 'pytorch', 'representation-learning', 'semantic-search', 'transformer', 'vector-search']",2023-02-21T10:04:40Z
+4m4n5__CLIP-Lite,master,1,11,"['clip', 'data-efficient', 'multimodal']",2023-02-21T16:59:03Z
+vkgo__OCRAutoScore,master,34,93,"['aes', 'clip', 'image-processing', 'image-segmentation', 'multimodal', 'ocr', 'paddleocr', 'pytorch']",2023-03-09T15:31:43Z
+sahilg06__EmoGen,master,18,282,"['audio-driven-talking-face', 'deepfakes', 'emotion', 'emotion-recognition', 'face-reenactment', 'lip-sync', 'multimodal', 'pytorch', 'talking-face-generation', 'wav2lip']",2023-03-23T18:39:33Z
+miccunifi__SEARLE,main,3,101,"['circo', 'cirr', 'clip', 'composed-image-retrieval', 'fashion-iq', 'knowledge-distillation', 'multimodal-learning', 'pytorch', 'textual-inversion']",2023-03-24T11:00:11Z
+miccunifi__CIRCO,main,1,32,"['circo', 'coco-dataset', 'composed-image-retrieval', 'iccv', 'iccv2023', 'information-retrieval', 'multimodal-learning', 'pytorch']",2023-03-24T11:02:00Z
+DianaNerualNetwork__SegResearchToolkit,main,0,7,"['image-matting', 'medical-image-segmentation', 'multimodal-deep-learning', 'point-cloud-segmentation', 'pytorch', 'rgbd-segmentation', 'segmentation', 'semantic-segmentation']",2023-03-30T07:49:34Z
+ashutosh1919__data2vec-pytorch,main,2,5,"['audio-machine-learning', 'computer-vision', 'data2vec', 'deep-learning', 'embedding-models', 'multimodal-deep-learning', 'nlp', 'pytorch', 'self-supervised-learning']",2023-03-20T20:09:27Z
+katha-ai__EmoTx-CVPR2023,master,8,44,"['cvpr2023', 'emotion-recognition', 'moviegraphs-dataset', 'multilabel-classification', 'multimodal-learning', 'pytorch', 'transformers']",2023-04-13T02:18:08Z
+jaychempan__SWAN-pytorch,main,4,19,"['cross-modal-retrieval', 'remote-sensing']",2023-04-04T08:36:44Z
+Event-AHU__VTF_PAR,main,1,15,"['multi-modal-fusion', 'pedestrian-attribute-recognition', 'transformer', 'video-based-attribute-recognition', 'visual-text-fusion']",2023-04-14T06:06:43Z
+X-PLUG__mPLUG-Owl,main,146,1778,"['alpaca', 'chatbot', 'chatgpt', 'damo', 'dialogue', 'gpt', 'gpt4', 'gpt4-api', 'huggingface', 'instruction-tuning', 'large-language-models', 'llama', 'mplug', 'mplug-owl', 'multimodal', 'pretraining', 'pytorch', 'transformer', 'video', 'visual-recognition']",2023-04-25T02:31:04Z
+UCSC-VLAA__CLIPA,master,10,263,"['contrastive-learning', 'deep-learning', 'foundation-models', 'multimodal-learning', 'neurips-2023', 'pytorch', 'zero-shot-classification', 'zero-shot-learning']",2023-04-26T22:45:04Z
+EliaFantini__2D-Priors-for-3D-human-reconstruction,main,2,1,"['3d-reconstruction', 'clip', 'deep-learning', 'human-mesh-reconstruction', 'multimodal', 'pifu', 'python', 'pytorch', 'robustness', 'robustness-analysis', 'self-supervised-learning', 'single-image']",2023-04-27T07:28:38Z
+lucidrains__MaMMUT-pytorch,main,4,88,"['artificial-intelligence', 'contrastive-learning', 'deep-learning', 'multimodal']",2023-05-05T19:03:19Z
+X-PLUG__mPLUG,main,3,65,"['image-captioning', 'image-text', 'image-text-retrieval', 'multimodal', 'pretraining', 'pytorch', 'transformer', 'visual-language', 'vqa']",2023-05-08T07:32:30Z
+kyegomez__Kosmos-X,master,10,60,"['computer-vision', 'gemini', 'gpt', 'gpt3', 'gpt4', 'multi-modal', 'pytorch', 'vision']",2023-05-05T03:57:14Z
+BoHuangLab__CELL-E_2,main,0,7,"['artificial-intelligence', 'attention-mechanism', 'deep-learning', 'generative-ai', 'language-modeling', 'multi-modal', 'protein-design', 'protein-sequences', 'pytorch', 'text-to-image', 'transformers']",2023-05-16T18:31:48Z
+minjoong507__BM-DETR,master,0,6,"['multimodal-learning', 'video-grounding', 'video-retrieval']",2023-05-18T06:08:50Z
+nataliakoliou__Music-Visualization-Network,main,0,0,"['audio-encoder', 'audio-to-image', 'cdcgan', 'cross-modal', 'deep-learning', 'generative-adversarial-network', 'image-generation', 'music-visualization', 'pytorch']",2023-05-07T21:45:44Z
+guyyariv__AudioToken,master,2,65,"['ai-art', 'audio-to-image', 'audio2image', 'deep-learning', 'diffusion-models', 'image-generation', 'multi-modal', 'stable-diffusion', 'text2image']",2023-05-22T06:04:46Z
+naver-ai__pcmepp,main,1,26,"['cross-modal-retrieval', 'probabilistic-embeddings', 'probabilistic-machine-learning']",2023-05-29T03:01:06Z
+ImKeTT__ReSee,main,0,7,"['dataset', 'dialogue-systems', 'emnlp2023', 'multimodal-dialogue', 'pretrained-language-model', 'transformers', 'visual-dialogue']",2023-05-24T03:06:53Z
+sisinflab__Ducho,main,2,7,"['acmmm2023', 'audio-processing', 'convolutional-neural-networks', 'docker', 'image-classification', 'multimodal-deep-learning', 'pytorch', 'recommender-system', 'sentiment-analysis', 'tensorflow', 'transformers']",2023-06-02T09:38:39Z
+ZhaoPeiduo__BLIP2-Japanese,master,0,4,"['blip2', 'captioning', 'japanese', 'multimodal-deep-learning', 'pytorch']",2023-05-31T14:23:24Z
+autodistill__autodistill,main,114,1384,"['auto-labeling', 'computer-vision', 'deep-learning', 'foundation-models', 'grounding-dino', 'image-annotation', 'image-classification', 'instance-segmentation', 'labeling-tool', 'machine-learning', 'model-distillation', 'multimodal', 'object-detection', 'pytorch', 'segment-anything', 'yolov5', 'yolov8']",2023-06-06T20:16:41Z
+RAIVNLab__sugar-crepe,main,4,49,"['benchmark', 'deep-learning', 'multi-modal-learning', 'pytorch', 'vision-and-language']",2023-06-04T18:16:33Z
+ManifoldRG__NEKO,master,8,21,"['deep-learning', 'multimodal', 'multimodal-deep-learning', 'python3', 'pytorch', 'reinforcement-learning']",2023-06-14T19:00:22Z
+orrzohar__LOVM,main,0,15,"['model-selection', 'multimodal-deep-learning', 'vision-language-model']",2023-06-14T18:49:17Z
+ImKeTT__ZeroGen,main,0,9,"['captioning', 'controllable-text-generation', 'decoding', 'gpt2', 'multimodal', 'nlpcc', 'vision-language', 'zero-shot']",2023-06-30T01:34:46Z
+Marco2929__StabledGroundingSAM,main,0,5,"['auto-labeling', 'computer-vision', 'deep-learning', 'grounding-dino', 'image-annotation', 'image-classification', 'instance-segmentation', 'labeling-tool', 'machine-learning', 'multimodal', 'object-detection', 'pytorch', 'segment-anything', 'stable-diffusion', 'supervision', 'synthetic-dataset-generation', 'yolov5', 'yolov8']",2023-07-02T13:59:49Z
+j-morano__multimodal-ssl-fpn,main,0,1,"['deep-learning', 'medical-imaging', 'miccai2023', 'pytorch', 'self-supervised-learning']",2023-06-28T13:18:17Z
+kyegomez__zeta,master,11,145,"['artificial-intelligence', 'deep-learning', 'gpt4', 'llama2', 'longnet', 'multi-agent-systems', 'multi-modal', 'multi-modal-learning', 'multi-platform', 'pytorch', 'speech-recognition', 'transformer', 'transformers']",2023-07-09T23:39:33Z
+zjukg__SeqCSG,main,1,6,"['cross-modal', 'large-language-models', 'pretrained-language-model', 'pytorch', 'scene-graph', 'semantics', 'sentiment-classification', 'transformers']",2023-07-09T08:18:27Z
+TaeKyuIm__pytorch_multimodal,master,0,0,[],2023-07-07T07:09:18Z
+alibaba__data-juicer,main,62,1182,"['chinese', 'data-analysis', 'data-science', 'data-visualization', 'dataset', 'gpt', 'gpt-4', 'instruction-tuning', 'large-language-models', 'llama', 'llm', 'llms', 'machine-learning', 'multi-modal', 'nlp', 'opendata', 'pre-training', 'pytorch', 'streamlit']",2023-08-01T09:16:41Z
+florencejt__fusilli,main,11,130,"['attention-mechanism', 'cnn', 'data-fusion', 'graph-neural-network', 'imaging', 'machine-learning', 'multi-view', 'multi-view-learning', 'multimodal', 'multimodal-deep-learning', 'multimodality', 'multivariate-analysis', 'pytorch', 'pytorch-lightning', 'variational-autoencoder']",2023-08-16T10:45:39Z
+subha-v__Tensor-Decomposition-Code,master,0,0,"['decomposition', 'deep-learning', 'deep-neural-networks', 'multimodal', 'pytorch', 'tensor', 'transformers']",2023-08-16T22:07:25Z
+outta-ai__2023_OUTTA_AIBootcamp_final_project,main,0,1,"['attngan', 'lafite', 'multi-modal-learning', 'openai-clip', 'pytorch', 'pytorch-lightning', 'stackgan', 'text-to-image']",2023-08-31T13:44:56Z
+Aruen24__feathernet_multimodal_pytorch,main,0,0,[],2023-08-30T07:05:46Z
+ahmdtaha__distributed_sigmoid_loss,main,0,4,"['contrastive-learning', 'distributed-data-parallel', 'multimodal-deep-learning', 'python3', 'pytorch', 'self-supervised-learning', 'unsupervised-learning', 'vision-and-language', 'vision-language', 'vision-language-pretraining', 'vision-transformer']",2023-09-23T20:39:06Z
+tsujuifu__pytorch_mgie,main,24,307,"['iclr2024', 'image-editing', 'multimodal-large-language-models', 'pytorch', 'vision-and-language']",2023-09-28T05:52:35Z
+kyegomez__RT-X,main,10,88,"['artificial-intelligence', 'attention-is-all-you-need', 'attention-model', 'computer-vision', 'gpt4', 'gpt4all', 'multimodal', 'vision', 'vision-transformer']",2023-10-04T21:44:26Z
+kyegomez__swarms-pytorch,main,3,74,"['artificial-intelligence', 'gpt4', 'hivemind', 'machine-learning', 'multimodal', 'multimodal-deep-learning', 'multimodality', 'networks', 'neural-network', 'swarm-intelligence', 'swarm-robotics', 'swarms']",2023-09-30T13:19:50Z
+tomoyoshki__focal,main,0,10,"['contrastive-learning', 'deep-learning', 'multimodal-deep-learning', 'self-supervised-learning', 'time-series']",2023-10-06T17:05:57Z
+UCSC-VLAA__MixCon3D,main,1,10,"['3d', 'contrastive-learning', 'foundation-models', 'multimodal-learning', 'pytorch', 'zero-shot-classification']",2023-10-05T19:01:53Z
+konst-int-i__mm-health-bench,main,0,2,"['bio-ml', 'bioinformatics', 'health', 'multimodal', 'pytorch']",2023-10-09T15:30:06Z
+kyegomez__BitNet,main,9,119,"['artificial-intelligence', 'deep-neural-networks', 'deeplearning', 'gpt4', 'machine-learning', 'multimodal', 'multimodal-deep-learning']",2023-10-18T16:19:06Z
+kyegomez__Fuyu,main,2,14,"['ai', 'artificial-intelligence', 'gpt4', 'gpt5', 'machine-learning', 'multi-modal', 'multi-modality']",2023-10-18T17:51:52Z
+kyegomez__Gen2,main,0,7,"['artificial-intelligence', 'gpt4', 'multimodal', 'multimodal-deep-learning', 'multimodal-learning', 'multimodality', 'stablediffusion', 'texttovideo']",2023-10-15T23:02:15Z
+kyegomez__swarmalators,main,0,5,"['artificial-intelligence', 'attention-is-all-you-need', 'attention-mechanism', 'machine-learning-algorithms', 'multimodal', 'multimodality', 'swarm-cluster', 'swarm-intelligence', 'swarm-robotics', 'swarms']",2023-10-22T04:12:06Z
+KimRass__CLIP,main,0,5,"['clip', 'flickr30k', 'flickr8k', 'linear-classification', 'multi-modal', 'text-image-retrieval', 'zero-shot-classification']",2023-10-19T06:36:41Z
+wjun0830__CGDETR,main,5,60,"['computer-vision', 'detection-transformer', 'detr', 'highlight-detection', 'moment-retrieval', 'multi-modal-learning', 'pytorch', 'temporal-grounding', 'text-video-retrieval', 'video-grounding', 'video-summarization', 'video-understanding']",2023-11-10T12:45:25Z
+lucidrains__mirasol-pytorch,main,0,78,"['artificial-intelligence', 'attention-mechanism', 'deep-learning', 'multimodality', 'transformers']",2023-11-18T17:16:16Z
+UCSC-VLAA__vllm-safety-benchmark,main,0,40,"['adversarial-attacks', 'benchmark', 'datasets', 'llm', 'multimodal-llm', 'robustness', 'safety', 'vision-language-model']",2023-11-23T05:05:37Z
+minjoong507__MPGN,main,0,4,"['multimodal-learning', 'video-grounding', 'video-retrieval']",2023-11-25T05:13:16Z
+jiaowoguanren0615__CoCa-Pytorch,main,0,1,"['coca', 'contrastive-learning', 'deep-learning', 'multi-modal', 'pytorch']",2023-11-17T07:47:47Z
+open-compass__VLMEvalKit,main,25,182,"['benchmark', 'chatgpt', 'clip', 'computer-vision', 'evaluation', 'gpt', 'gpt-4v', 'gpt4', 'large-language-models', 'llava', 'llm', 'minigpt4', 'mplug-owl', 'multi-modal', 'openai', 'openai-api', 'pytorch', 'qwen', 'vit', 'vqa']",2023-12-01T08:18:11Z
+zjukg__Structure-CLIP,main,1,46,"['clip', 'cross-modal', 'knowledge-transfer', 'pretrained-models', 'pytorch', 'scene-graph', 'semantic', 'structure']",2023-12-09T14:35:33Z
+Highdrien__MultiModal-Model,main,0,1,"['bert-model', 'deep-learning', 'lstm-neural-networks', 'multimodal', 'multimodal-deep-learning', 'python', 'pytorch', 'wave2vec2']",2023-12-06T15:53:06Z
+BEAM-Labs__CrossBind,main,0,0,"['cross-modality', 'protein-dna-interactions', 'protein-rna-interactions']",2023-12-10T07:14:44Z
+sunoh-kim__pps,main,0,3,"['attention-mechanism', 'gaussian-mixture', 'moment-localization', 'multimodal-learning', 'temporal-grounding', 'temporal-sentence-grounding', 'video-grounding', 'video-moment-retrieval']",2023-12-14T03:59:57Z
+kyegomez__MambaTransformer,main,7,73,"['ai', 'artificial-intelligence', 'attention-is-all-you-need', 'attention-mechanisms', 'gpt4', 'language', 'machine-learning', 'multimodal', 'neural-network', 'neural-networks', 'pytorch', 'recurrent-neural-networks', 'rnns', 'ssm', 'tensorflow', 'zeta']",2024-01-13T04:58:52Z
+kyegomez__MambaByte,main,2,46,"['ai', 'artificial-intelligence', 'gpt4v', 'machine-learning', 'mamba', 'megabyte', 'ml', 'multi-modality', 'tokenizer']",2024-01-26T01:23:25Z
+kyegomez__MoE-Mamba,main,0,26,"['ai', 'ml', 'moe', 'multi-modal-fusion', 'multi-modality', 'swarms']",2024-01-21T23:30:45Z
+kyegomez__M2PT,main,1,11,"['ai', 'attention', 'attention-is-all-you-need', 'gpt4', 'gpt5', 'llama', 'ml', 'models', 'mulit-modality', 'multi-modal']",2024-01-26T16:56:04Z
+kyegomez__VisionDatasets,main,0,10,"['ai', 'artificial-intelligence', 'function-calling', 'gpt3', 'gpt4', 'json', 'machine-learning', 'ml', 'multi-modal', 'multi-modality', 'pytorch', 'tensorflow']",2024-01-28T01:47:01Z
+kyegomez__GATS,main,0,7,"['ai', 'attention', 'attention-is-all-you-need', 'attention-mechanism', 'gpt4', 'llama', 'ml', 'multi-modal', 'multi-modality', 'multimodal', 'open-source']",2024-01-18T05:31:34Z
+QQBrowserVideoSearch__CBVS-UniCLIP,main,0,5,"['clip', 'computer-science', 'computer-vision', 'multi-modal', 'nlp', 'pytorch', 'transformer', 'vision-language-model']",2024-01-17T06:19:31Z
+tue-mps__multimodal-sensorfusion,master,1,0,[],2024-02-01T18:21:13Z

@@ -1,0 +1,5 @@
+moduleID,moduleProjectID,modulePath,moduleName,startLine,endLine,moduleHash
+0,0,"a28293971__ResNet_CRNN_OCR/main/ResNet_CRNN_OCR-23c164aa273f687a692edaee1721982a25edebdf/lib/models/resNet_crnn.py",AsterBlock,14,37,-1477081612
+1,0,"a28293971__ResNet_CRNN_OCR/main/ResNet_CRNN_OCR-23c164aa273f687a692edaee1721982a25edebdf/lib/models/resNet_crnn.py",ResNet_ASTER,40,112,1254655896
+2,1,"testProject/resNet_crnn.py",AsterBlock,14,37,-1477081612
+3,1,"testProject/resNet_crnn.py",ResNet_ASTER,40,112,1254655896
