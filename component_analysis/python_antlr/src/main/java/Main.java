@@ -9,7 +9,6 @@ import utils.myUtil;
 
 public class Main {
     private static String basePath = "../../../test_project/";
-    // private static String basePath = "/bdata2/yyh/NNClone/python_antlr/data";
     private static String outputPath = "../../../test_project_output";
 
     public static void main(String[] args) {
