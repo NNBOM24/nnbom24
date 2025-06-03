@@ -6,17 +6,17 @@ import requests
 import random
 import time
 
-
-root_path = ' '
+ 
+root_path = 'C:/NNBOM/nnbom24/data_collection_script'
 tokens = [
-        {"name": "1", "token": " "},
-        {"name": "2", "token": " "},
-        {"name": "3", "token": " "},
-        {"name": "4", "token": " "}
+        {"name": "1", "token": "xxx"},
+        {"name": "2", "token": "xxx"},
+        {"name": "3", "token": "xxx"},
+        {"name": "4", "token": "xxx"},
     ]
 
 # repo list
-df = pd.read_csv(root_path + '/github_repositories_data.csv')
+df = pd.read_csv(root_path + '/data_new/github_repositories_data_new.csv')
 
 default_branch = {}
 for i in range(len(df)):
@@ -68,7 +68,7 @@ def construct_download_list(name_list):
         #     continue
         print_logs(f"start: {i}")
         result = []  # list of dicts
-        file_name = f"{root_path}/tags_add/{str(i)}-batch.csv"
+        file_name = f"{root_path}/data_new/tags_add/{str(i)}-batch.csv"
         processed_list = []
         if os.path.exists(file_name):
             print_logs(f"file exists: {i}")
@@ -80,8 +80,8 @@ def construct_download_list(name_list):
                 name = str(name_list[j]).replace('/', '__')
                 if name_list[j] in processed_list:
                     continue
-                if os.path.exists(f"{root_path}/tags/{name}.json"):
-                    with open(f"{root_path}/tags/{name}.json", 'r') as r:
+                if os.path.exists(f"{root_path}/data_new/tags/{name}.json"):
+                    with open(f"{root_path}/data_new/tags/{name}.json", 'r') as r:
                         content = json.loads(r.read())
                     if content['tags'] is None or len(content['tags']) == 0:
                         value = query_default_branch(name_list[j])
@@ -119,7 +119,7 @@ def construct_download_list(name_list):
         else:
             print_logs(f"created new file: {i}")
             df.to_csv(file_name, index=False)
-            time.sleep(180)
+            #time.sleep(50) 
         
 
 

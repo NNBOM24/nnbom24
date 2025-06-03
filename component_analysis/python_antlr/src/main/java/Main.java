@@ -7,10 +7,11 @@ import process.FileExtract;
 import process.Preprocess;
 import utils.myUtil;
 
-public class Main {
+public class Main { 
     private static String basePath = "../../../test_project/";
     private static String outputPath = "../../../test_project_output";
 
+    
     public static void main(String[] args) {
 
         long startTime = System.currentTimeMillis();

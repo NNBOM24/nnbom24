@@ -1,4 +1,4 @@
-projectID,repo_name,imports,pretrainedModels
+projectID,repo_name,imports,pretrainedModels 
 334,BurguerJohn__torch-felix,[felix;matplotlib;torch;numpy;math;torchvision],[facebookresearch/dinov2;dinov2_vits14]
 791,dangss__Language-Modeling,[data_vocab;os;torch;numpy;sys;argparse;tqdm;collections;logging;json;model;math;time],[]
 1394,vclab-dev__ViT_DA,[data_list;vit_seg_modeling_resnet_skip;csv;sklearn;numpy;datasets;sys;torchvision;networks;network;loss;random;mixup_utils;seaborn;collections;utils;trainer;ml_collections;wandb;copy;non_local_embedded_gaussian;scipy;timm;os;warnings;torch;__future__;argparse;pdb;rlcc;tqdm;pandas;PIL;matplotlib;TransUNet;tensorboardX;logging;shutil;medpy;math;time;SimpleITK;torchsummary],[facebookresearch/deit:main;deit_small_patch16_224;facebookresearch/deit:main;deit_base_patch16_224;facebookresearch/deit:main;deit_small_distilled_patch16_224]

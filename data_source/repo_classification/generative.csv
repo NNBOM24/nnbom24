@@ -9,7 +9,7 @@ mailmahee__pytorch-generative-adversarial-networks,master,7,33,[],2017-02-19T02:
 zhenxuan00__triple-gan,master,63,224,"['gan', 'generative-adversarial-network', 'generative-model', 'semi-supervised-learning']",2017-03-30T04:12:18Z
 edgarriba__ali-pytorch,master,2,30,"['deep-learning', 'generative-model']",2017-03-24T07:51:00Z
 leVirve__pixel-styler,master,2,13,"['cyclegan', 'deep-learning', 'gan', 'generative-adversarial-network', 'image-translation', 'pix2pix', 'pytorch', 'refactoring']",2017-03-30T16:38:00Z
-staturecrane__python-generation,master,0,1,[],2017-03-15T15:43:22Z
+staturecrane__python-generation,master,0,1,[],2017-03-15T15:43:22Z 
 taey16__DomainTransferNetwork.pytorch,master,10,38,"['deep-learning', 'domain-transfer-network', 'gan', 'generative-adversarial-network', 'pytorch']",2017-04-05T03:52:22Z
 taey16__pix2pix.pytorch,master,8,36,"['gan', 'generative-adversarial-network', 'pix2pix', 'pytorch']",2017-04-06T03:37:23Z
 junyanz__pytorch-CycleGAN-and-pix2pix,master,6077,21508,"['computer-graphics', 'computer-vision', 'cyclegan', 'deep-learning', 'gan', 'gans', 'generative-adversarial-network', 'image-generation', 'image-manipulation', 'pix2pix', 'pytorch']",2017-04-18T10:33:05Z

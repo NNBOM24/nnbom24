@@ -14,7 +14,7 @@ root_path = ''
 
 
 def load_data():
-    with open(f'{root_path}/data/github_repositories_repo.csv', 'r') as f:
+    with open(f'{root_path}/data/github_repositories_data_new.csv', 'r') as f:
         data = pd.read_csv(f)
     return data['full_name'].tolist()
 
@@ -38,10 +38,10 @@ def post_query(repo_name, token):
 
 def multi_process_collect_tags(r_name):
     tokens = [
-        {"name": "1", "token": "token1"},
-        {"name": "2", "token": "token2"},
-        {"name": "3", "token": "token3"},
-        {"name": "4", "token": "token4"}
+        {"name": "1", "token": "xxx"},
+        {"name": "2", "token": "xxx"},
+        {"name": "3", "token": "xxx"},
+        {"name": "4", "token": "xxx"}
     ]
     t = random.randint(0, len(tokens) - 1)
     current_token = tokens[t]['token']
@@ -83,5 +83,5 @@ if __name__ == '__main__':
     for i in range(0, len(name_list), batch_size):
         with Pool(20) as p:
             p.map(multi_process_collect_tags, name_list[i:i+batch_size])
-        # time.sleep(60 * 10)
+        time.sleep(60 * 10)
     remove_wrong_tags(name_list)

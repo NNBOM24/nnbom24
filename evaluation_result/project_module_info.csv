@@ -1,4 +1,4 @@
-moduleProjectID,modulePath,moduleName,startLine,endLine
+moduleProjectID,modulePath,moduleName,startLine,endLine 
 334,/BurguerJohn__torch-felix/main/torch-felix-8ccf07ec54dadf7f09bd917fc046e6a0f1f1b373/felix.py,FelixLoss,63,76
 334,/BurguerJohn__torch-felix/main/torch-felix-8ccf07ec54dadf7f09bd917fc046e6a0f1f1b373/felix.py,FelixExtractor,14,59
 791,/dangss__Language-Modeling/maste/Language-Modeling-8b2ec062ce67c6cce150bac480988fb8bb645b77/model/lm.py,RNNLM,8,105
@@ -261,11 +261,11 @@ moduleProjectID,modulePath,moduleName,startLine,endLine
 21186,/mttk__rnn-classifier/maste/rnn-classifier-65d32766d35d0d3a0a7bd85f08d78ef5b277cf04/model.py,Classifier,44,75
 21186,/mttk__rnn-classifier/maste/rnn-classifier-65d32766d35d0d3a0a7bd85f08d78ef5b277cf04/model.py,Attention,22,42
 20626,/dimitrymindlin__DenseNetMuraPytorch/maste/DenseNetMuraPytorch-ef3a872d739b015e3618c00265acb481dc251342/main.py,Loss,35,43
-23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Major_Rate_Model,52,76
-23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,RegLSTM,137,155
-23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,TextCnnModel,158,202
-23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Model_block,79,111
-23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Subjob_predictive_model,114,134
+23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Major_Rate_Model,52,76
+23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,RegLSTM,137,155
+23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,TextCnnModel,158,202
+23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Model_block,79,111
+23854,/SR7MIN__CareerMapper/main/CareerMapper-9180cf9cbef0cf61b9263a4e4bebeea86eadd027/大数据设�?model_helper.py,Subjob_predictive_model,114,134
 23364,/megvii-research__protoclip/main/protoclip-fde193381369380bd6ffe278d644d85717e01a80/src/open_clip/loss.py,ClipLoss,58,114
 23364,/megvii-research__protoclip/main/protoclip-fde193381369380bd6ffe278d644d85717e01a80/src/open_clip/model.py,Bottleneck,20,65
 23364,/megvii-research__protoclip/main/protoclip-fde193381369380bd6ffe278d644d85717e01a80/src/open_clip/model.py,AttentionPool2d,68,102
@@ -865,9 +865,9 @@ moduleProjectID,modulePath,moduleName,startLine,endLine
 52038,/AppleHolic__SpeechInterface/v0.0.2.1/AppleHolic-SpeechInterface-60e5766/speech_interface/models/hifi_gan.py,ResBlock1,31,68
 52038,/AppleHolic__SpeechInterface/v0.0.2.1/AppleHolic-SpeechInterface-60e5766/speech_interface/models/hifi_gan.py,ResBlock2,71,92
 52038,/AppleHolic__SpeechInterface/v0.0.2.1/AppleHolic-SpeechInterface-60e5766/speech_interface/models/hifi_gan.py,Generator,95,145
-53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd_training.py,MultiBoxLoss,16,111
-53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd_layers.py,L2Norm,185,202
-53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd.py,SSD,12,86
+53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd_training.py,MultiBoxLoss,16,111
+53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd_layers.py,L2Norm,185,202
+53108,/cxqzjhz__pytorch-ssd-cam/main/pytorch-ssd-cam-e027829e3e714427a7aab7475cc71d8e8f68e649/ssd-pytorch-master源代�?nets/ssd.py,SSD,12,86
 53278,/csrhddlam__pytorch-checkpoint/maste/pytorch-checkpoint-8df3dd8f5ac1cf6c78a5363a18fe220d2dd1c6ef/cp_densenet.py,_DenseLayer,24,49
 53278,/csrhddlam__pytorch-checkpoint/maste/pytorch-checkpoint-8df3dd8f5ac1cf6c78a5363a18fe220d2dd1c6ef/cp_densenet.py,_DenseBlock,62,80
 53278,/csrhddlam__pytorch-checkpoint/maste/pytorch-checkpoint-8df3dd8f5ac1cf6c78a5363a18fe220d2dd1c6ef/cp_densenet.py,DenseNet,83,161

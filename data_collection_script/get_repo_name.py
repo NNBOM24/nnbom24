@@ -13,11 +13,11 @@ params_base = {
 
 # Add your GitHub personal access token here
 headers = {
-    'Authorization': 'token <your_access_token>',
+    'Authorization': 'token xxx',
 }
 
 all_data = []
-csv_filename = 'github_repositories_repo.csv'
+csv_filename = 'github_repositories_repo_new2.csv'
 # Save to CSV, append to the existing file
 def append_to_csv(time):
     with open(csv_filename, 'a', newline='', encoding='utf-8') as csv_file:
@@ -34,7 +34,7 @@ def append_to_csv(time):
     print(f'{time: } appended to {csv_filename}')
 
 # Set the initial date range
-start_date = datetime.strptime('2012-03-01', '%Y-%m-%d')
+start_date = datetime.strptime('2024-07-09', '%Y-%m-%d')
 end_date = start_date + timedelta(days=15)  # Adjust the date range as needed
 loop_cnt = 1
 while end_date <= datetime.now():
