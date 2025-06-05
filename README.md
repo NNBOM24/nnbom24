@@ -16,7 +16,7 @@ nnbom24/
 
 ```
 
-##  🧪 Component Analysis Tool
+##  🧪 Component Analysis Tool (Application)
 
 ### Requirements
 
